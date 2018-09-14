@@ -1,4 +1,7 @@
 
+https://bookdown.org/sulaxd/CreditCard/CreditCard.html
+【信用卡帳單分析案例 with R】
+
 Analyzing Credit Card default payment and visualization
 https://www.kaggle.com/anshilata/credit-card-data-analysis-and-visualization
 
