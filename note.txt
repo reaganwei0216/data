@@ -1,4 +1,34 @@
 
+# c4 -----
+data(GermanCredit)
+summary(GermanCredit)
+c <- GermanCredit[,1:5]
+
+
+GermanCredit[100,-2]
+GermanCredit[100,2] <- NA
+x <- GermanCredit
+GermanCredit$duration
+du <- lm(duration~.,x[-100,])
+du
+x[100,2]=predict(du,x[100,-2])
+
+# c5 -----
+
+install.packages("Hmisc")
+library(Hmisc)
+
+install.packages("gmodels")
+library(gmodels)
+
+install.packages("mosaic")
+library(mosaic)
+
+
+install.packages("InformationValue")
+library(InformationValue)
+
+
 https://bookdown.org/sulaxd/CreditCard/CreditCard.html
 【信用卡帳單分析案例 with R】
 
