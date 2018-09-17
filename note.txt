@@ -37,8 +37,10 @@ https://www.kaggle.com/anshilata/credit-card-data-analysis-and-visualization
 
 免費培訓視頻
 https://www.tableau.com/zh-cn/learn/training
-
 https://www.tableau.com/learn/training
+
+新北市公共自行車租賃系統(YouBike)
+https://data.gov.tw/dataset/28318
 
 直接下載試用版~
 https://www.tableau.com/partner-trial?id=27912
