@@ -35,6 +35,7 @@ https://bookdown.org/sulaxd/CreditCard/CreditCard.html
 Analyzing Credit Card default payment and visualization
 https://www.kaggle.com/anshilata/credit-card-data-analysis-and-visualization
 
+免費培訓視頻
 https://www.tableau.com/zh-cn/learn/training
 
 https://www.tableau.com/learn/training
