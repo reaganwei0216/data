@@ -1,12 +1,11 @@
 李育杰老師- 巨量資料分析Analysis Of Big Data - YouTube
 https://www.youtube.com/playlist?list=PLj6E8qlqmkFv1rlU7BGntOGe_RFnrv9Ip
 
+孫再陽 tableau
+https://www.youtube.com/watch?v=Y02uSI85p5w
 
-TCVH
-CBD0
-E810
-7891
-AF7E
+
+
 
 
 # c4 -----
@@ -38,6 +37,12 @@ library(mosaic)
 install.packages("InformationValue")
 library(InformationValue)
 
+
+TCVH
+CBD0
+E810
+7891
+AF7E
 
 https://bookdown.org/sulaxd/CreditCard/CreditCard.html
 【信用卡帳單分析案例 with R】
