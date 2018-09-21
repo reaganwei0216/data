@@ -99,3 +99,92 @@ gantter for google drive
 https://chrome.google.com/webstore/detail/gantter-project-managemen/himomacamcpodhkahelbnmaddladgjgo
 
 https://www.theinformationlab.co.uk/2018/08/31/visual-vocabulary/
+
+
+--R
+ggplot2
+ggvis
+shiny
+plotly
+
+--Python
+matplotlib   v
+Bokeh
+datashader
+PyQtGraph 無法呈現在網頁平台
+=======
+Seaborn
+
+
+https://rawgraphs.io/
+Google Data Studio
+https://datastudio.google.com/overview
+
+Python 資料視覺化 - 使用 datashader
+http://blog.yeshuanova.com/post/2017/11/python-visualization-datashader/
+
+PlotDB
+https://plotdb.com/
+
+https://plot.ly/
+
+完整的線上資料故事編輯器  $
+http://www.quadrigram.com/
+
+
+
+
+20 free and open source data visualization tools
+https://www.hackerearth.com/blog/community/20-free-and-open-source-data-visualization-tools/
+
+
+讓資料更容易解讀的Gapminder
+https://blog.edumeme.org/2011/11/gapminder.html
+
+
+淺談社會網絡分析(Social Network Analysis)之二：Gephi
+http://know2013.pixnet.net/blog/post/113232649-gephi畫network使用手冊
+
+https://www.economist.com/blogs/graphicdetail
+經濟學人
+
+http://www.visualcapitalist.com/
+經濟分析的資料視覺化報告
+
+http://mobilev.is/
+移動裝置資料視覺化
+
+
+
+Percentage Gauges in Tableau
+http://www.kenflerlage.com/2018/01/percentage-gauges-in-tableau.html
+
+
+二維或多維關聯
+tableau line chart  (折線圖)
+tableau scatter plot chart (散佈圖)
+
+
+節點關聯
+tableau mind map (圖)
+tableau network diagram (圖)
+http://www.clearlyandsimply.com/clearly_and_simply/2012/12/build-network-graphs-in-tableau.html
+
+大小的比較
+tableau bar chart (長條圖)
+tableau area graph  (區域圖)
+tableau radar chart (雷達圖)
+
+
+占比的比較
+tableau pie chart (圓餅圖)
+tableau cell chart x (細胞組織圖)
+tableau stacked bar chart (堆積長條圖)
+tableau tree map (矩形樹狀結構圖)
+tableau radial bar chart (放射狀長條圖) 
+tableau nightingale rose chart x
+
+地理資料
+tableau bubble map (泡泡地圖)
+tableau heat map (熱度地圖)
+tableau flow map (流動地圖)x
