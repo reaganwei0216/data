@@ -7,6 +7,9 @@ https://data.gov.tw/dataset/28318
 http://design2u.me/_public/tableau/dataset_youbike.csv
 
 
+Tableau 支持用於構建地圖視圖的位置數據
+https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/maps_data.html
+
 李育杰老師- 巨量資料分析Analysis Of Big Data - YouTube
 https://www.youtube.com/playlist?list=PLj6E8qlqmkFv1rlU7BGntOGe_RFnrv9Ip
 
