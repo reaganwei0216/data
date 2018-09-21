@@ -1,8 +1,10 @@
 登革熱1998年起每日確定病例統計
 https://data.gov.tw/dataset/21025
+http://design2u.me/_public/tableau/dataset_bouquet.csv
 
 新北市公共自行車租賃系統(YouBike)
 https://data.gov.tw/dataset/28318
+http://design2u.me/_public/tableau/dataset_youbike.csv
 
 
 李育杰老師- 巨量資料分析Analysis Of Big Data - YouTube
