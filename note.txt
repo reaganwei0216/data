@@ -81,3 +81,5 @@ https://www.tableau.com/partner-trial?id=27912
 http://customer.tableau.com/
 
 https://public.tableau.com/profile/ray.jhong#!/
+https://public.tableau.com/views/story_test_3/Story1?:embed=y&:display_count=yes
+https://reaganwei.wixsite.com/tableautest
