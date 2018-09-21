@@ -6,6 +6,9 @@ http://design2u.me/_public/tableau/dataset_bouquet.csv
 https://data.gov.tw/dataset/28318
 http://design2u.me/_public/tableau/dataset_youbike.csv
 
+台灣19個城市的經緯度資料
+http://design2u.me/_public/tableau/dataset_taiwancitygps.csv
+
 
 Tableau 支持用於構建地圖視圖的位置數據
 https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/maps_data.html
