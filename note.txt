@@ -4,6 +4,10 @@ https://www.google.com.tw/search?q=tableaustacked+bar+chart&oq=tableaustacked+ba
 Tableau Tutorial 2: How to Create a Donuts Pie Chart
 https://www.youtube.com/watch?v=3oqbJp7WhPY
 
+Percentage Gauges in Tableau
+http://www.kenflerlage.com/2018/01/percentage-gauges-in-tableau.html
+
+
 登革熱1998年起每日確定病例統計
 https://data.gov.tw/dataset/21025
 http://design2u.me/_public/tableau/dataset_bouquet.csv
