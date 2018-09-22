@@ -28,6 +28,7 @@ https://www.youtube.com/playlist?list=PLj6E8qlqmkFv1rlU7BGntOGe_RFnrv9Ip
 
 孫再陽 tableau
 https://www.youtube.com/watch?v=Y02uSI85p5w
+https://docs.google.com/spreadsheets/d/1820MjhMkkhqbwjejxbXw7Dm1qzfaNmIzuJwIHuS-lxU/pubhtml
 
 資料科學與R語言
 曾意儒 Yi-Ju Tseng 長庚大學資訊管理學系
