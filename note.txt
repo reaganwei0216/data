@@ -4,6 +4,22 @@ https://www.r-bloggers.com/classification-on-the-german-credit-database/
 Logistic Regression and CART on German Credit Data
 https://rpubs.com/akulmahajan/366219
 
+German Credit Risk Analysis
+German Credit Risk Analysis: Part-1
+https://rstudio-pubs-static.s3.amazonaws.com/368878_a277debe13724075a69189451dadd751.html
+
+
+library(knitr)
+library(dplyr)
+library(tidyr)
+library(reshape2)
+library(RColorBrewer)
+library(GGally)
+library(ggplot2)
+library(caret)
+library(glmnet)
+library(boot)
+library(verification)
 
 tableaustacked bar chart
 https://www.google.com.tw/search?q=tableaustacked+bar+chart&oq=tableaustacked+bar+chart&aqs=chrome..69i57j0l5.52953j0j7&sourceid=chrome&ie=UTF-8
