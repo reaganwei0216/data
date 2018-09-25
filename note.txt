@@ -1,5 +1,17 @@
 基於R語言的申請評分卡
 https://www.jianshu.com/p/57a1d781ca4c
+信貸行業中常見的評分卡包括：申請評分卡(Application)、行為評分卡(Behavior)、催收評分卡(Collection)以及反欺詐評分卡（Anti-Fraud），簡稱為A卡、B卡、C卡和F卡。
+A卡，主要應用於貸前准入環節對新用戶的信用評級。
+B卡，主要應用於貸中管理環節對存量用戶的行為預測。
+C卡，主要應用於貸後催收環節對存量用戶是否催收的預測管理。
+F卡，主要應用於貸前准入環節對新用戶可能存在的欺詐行為進行預測。
+本文通過歷史數據建立Logistic回歸模型，預測用戶出現違約的概率，從而建立申請評分卡模型。
+作者：奔跑的蜈蚣
+链接：https://www.jianshu.com/p/57a1d781ca4c
+來源：简书
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+
+
 
 Classification on the German Credit Database
 https://www.r-bloggers.com/classification-on-the-german-credit-database/
