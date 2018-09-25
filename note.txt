@@ -37,6 +37,7 @@ https://yijutseng.github.io/DataScienceRBook/index.html
 
 
 # c4 -----
+library(klaR)
 data(GermanCredit)
 summary(GermanCredit)
 c <- GermanCredit[,1:5]
