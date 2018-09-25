@@ -2,6 +2,12 @@ https://github.com/frankhlchi/R-scorecard
 https://my.oschina.net/hblt147/blog/1575207
 
 
+
+整合變數篩選與分類方法建構信用評等模型
+https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22100NCTU5031084%22.&searchmode=basic
+國立交通大學  工業工程與管理學系 曾建元
+
+
 url="http://freakonometrics.free.fr/german_credit.csv"
 credit=read.csv(url, header = TRUE, sep = ",")
 
