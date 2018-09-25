@@ -1,5 +1,11 @@
 https://github.com/frankhlchi/R-scorecard
 
+手把手教你用R語言建立信用評分模型（一）
+https://zhuanlan.zhihu.com/p/24803117
+
+WOE和IV值
+https://bryannotes.blogspot.com/2014/10/r-woeiv.html
+
 
 構建風控評分卡模型介紹（WOE/KS/ROC)
 https://blog.csdn.net/htbeker/article/details/79697557
