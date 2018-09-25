@@ -1,3 +1,10 @@
+Classification on the German Credit Database
+https://www.r-bloggers.com/classification-on-the-german-credit-database/
+
+Logistic Regression and CART on German Credit Data
+https://rpubs.com/akulmahajan/366219
+
+
 tableaustacked bar chart
 https://www.google.com.tw/search?q=tableaustacked+bar+chart&oq=tableaustacked+bar+chart&aqs=chrome..69i57j0l5.52953j0j7&sourceid=chrome&ie=UTF-8
 
