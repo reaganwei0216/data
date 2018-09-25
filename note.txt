@@ -1,3 +1,10 @@
+https://github.com/frankhlchi/R-scorecard
+
+
+構建風控評分卡模型介紹（WOE/KS/ROC)
+https://blog.csdn.net/htbeker/article/details/79697557
+
+
 基於R語言的申請評分卡
 https://www.jianshu.com/p/57a1d781ca4c
 信貸行業中常見的評分卡包括：申請評分卡(Application)、行為評分卡(Behavior)、催收評分卡(Collection)以及反欺詐評分卡（Anti-Fraud），簡稱為A卡、B卡、C卡和F卡。
