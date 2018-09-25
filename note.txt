@@ -1,3 +1,6 @@
+https://technews.tw/2018/03/18/social-media-policy-in-china/
+AI 就能完全取代人類進行核貸工作。然而，透過 AI 學習出來的規則，卻像個黑盒子，往往連開發者也搞不清背後邏輯是什麼，一旦規則出錯，未來將更難發現，被冤枉的使用者恐投訴無門。
+
 https://github.com/frankhlchi/R-scorecard
 https://my.oschina.net/hblt147/blog/1575207
 
