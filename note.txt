@@ -1,5 +1,5 @@
 https://github.com/frankhlchi/R-scorecard
-
+https://my.oschina.net/hblt147/blog/1575207
 
 
 url="http://freakonometrics.free.fr/german_credit.csv"
