@@ -2,6 +2,10 @@ https://github.com/frankhlchi/R-scorecard
 
 手把手教你用R語言建立信用評分模型（一）
 https://zhuanlan.zhihu.com/p/24803117
+手把手教你用R語言建立信用評分模型（二）——單變量分析
+https://zhuanlan.zhihu.com/p/24954523
+手把手教你用R語言建立信用評分模型（三）— —Logistic模型建構
+https://zhuanlan.zhihu.com/p/25170268
 
 WOE和IV值
 https://bryannotes.blogspot.com/2014/10/r-woeiv.html
