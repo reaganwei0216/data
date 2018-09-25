@@ -1,3 +1,6 @@
+基於R語言的申請評分卡
+https://www.jianshu.com/p/57a1d781ca4c
+
 Classification on the German Credit Database
 https://www.r-bloggers.com/classification-on-the-german-credit-database/
 
