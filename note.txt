@@ -1,3 +1,22 @@
+大數據分析SQL Server 2016與R全方位應用 [電子資源]
+http://ustcate.lib.nctu.edu.tw/primo_library/libweb/action/search.do?dscnt=0&vl%28freeText0%29=%E5%A4%A7%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90SQL+Server+2016%E8%88%87R%E5%85%A8%E6%96%B9%E4%BD%8D&prefLang=zh_TW&vl%281UI0%29=contains&scp_scps=scope%3A%28NCTU%29%2Cprimo_central_multiple_fe&tb=t&frbg=&vid=NCTU&srt=rank&dum=true&index=1&tab=ils_article&mode=Basic&initialSearch=true&ct=search&fn=search
+
+客戶流失預警R語言實現
+https://www.jianshu.com/p/70e46c72f855
+RFM模型 .
+R：Recency:距離最近一次交易
+F：Frequency:交易頻率
+M：Monetary :交易金額
+R實戰——使用R語言建立RFM模型（上）
+https://zhuanlan.zhihu.com/p/32384042
+R實戰——使用R語言建立RFM模型（下）
+https://zhuanlan.zhihu.com/p/32417194
+R語言構建RFM模型了解一下
+https://zhuanlan.zhihu.com/p/36273347
+https://github.com/ljtyduyu/DataWarehouse/tree/master/Model
+
+
+
 https://technews.tw/2018/03/18/social-media-policy-in-china/
 AI 就能完全取代人類進行核貸工作。然而，透過 AI 學習出來的規則，卻像個黑盒子，往往連開發者也搞不清背後邏輯是什麼，一旦規則出錯，未來將更難發現，被冤枉的使用者恐投訴無門。
 
