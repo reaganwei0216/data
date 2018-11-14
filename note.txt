@@ -1,3 +1,5 @@
+http://customer.tableau.com/
+
 信用評等模型12堂課
 http://ustcate.lib.nctu.edu.tw/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=ils_article&indx=1&dum=true&srt=rank&vid=NCTU&frbg=&tb=t&vl%28freeText0%29=%E4%BF%A1%E7%94%A8%E8%A9%95%E7%AD%89%E6%A8%A1%E5%9E%8B12%E5%A0%82%E8%AA%B2&scp.scps=scope%3A%28NCTU_AV%29%2Cscope%3A%28NCTU_BOOK%29%2Cscope%3A%28NCTU_DT%29%2Cscope%3A%28NCTU_JOURNAL%29%2Cscope%3A%28NCTU%29%2Cprimo_central_multiple_fe&vl%281UI0%29=contains
 
