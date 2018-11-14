@@ -1,3 +1,15 @@
+https://www.tenlong.com.tw/products/9787121341434
+Tableau 商業分析一點通 Tableau商业分析一点通
+https://visualizinghealthdata.idv.tw/?route=article/faq&faq_id=79
+看見健康數據
+https://ithelp.ithome.com.tw/articles/10202533
+Hello Tableau系列 第 2 篇
+https://www.clearlyandsimply.com/clearly_and_simply/2012/12/build-network-graphs-in-tableau.html
+Build Network Graphs in Tableau
+https://towardsdatascience.com/tableau-esque-drag-and-drop-gui-visualization-in-r-901ee9f2fe3f
+Tableau-like Drag and Drop GUI Visualization in R
+
+
 https://jerrynest.io/python-pandas-get-data/
 
 http://customer.tableau.com/
@@ -270,30 +282,3 @@ http://www.kenflerlage.com/2018/01/percentage-gauges-in-tableau.html
 
 
 二維或多維關聯
-tableau line chart  (折線圖)
-tableau scatter plot chart (散佈圖)
-
-
-節點關聯
-tableau mind map (圖)
-tableau network diagram (圖)
-http://www.clearlyandsimply.com/clearly_and_simply/2012/12/build-network-graphs-in-tableau.html
-
-大小的比較
-tableau bar chart (長條圖)
-tableau area graph  (區域圖)
-tableau radar chart (雷達圖)
-
-
-占比的比較
-tableau pie chart (圓餅圖)
-tableau cell chart x (細胞組織圖)
-tableau stacked bar chart (堆積長條圖)
-tableau tree map (矩形樹狀結構圖)
-tableau radial bar chart (放射狀長條圖) 
-tableau nightingale rose chart x
-
-地理資料
-tableau bubble map (泡泡地圖)
-tableau heat map (熱度地圖)
-tableau flow map (流動地圖)x
