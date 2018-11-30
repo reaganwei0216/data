@@ -1,3 +1,23 @@
+
+https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras
+https://www.jianshu.com/p/95a1b1118187
+
+從 pandas 開始 Python 與資料科學之旅
+仿效 Tidyverse 的學習模式
+https://medium.com/datainpoint/從-pandas-開始-python-與資料科學之旅-8dee36796d4a
+
+從 pandas 開始 Python 與資料科學之旅
+仿效 Tidyverse 的學習模式
+https://medium.com/datainpoint/%E5%BE%9E-pandas-%E9%96%8B%E5%A7%8B-python-%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E4%B9%8B%E6%97%85-8dee36796d4a
+
+ROC、Precision、Recall、TPR、FPR理解
+https://www.jianshu.com/p/be2e037900a1
+https://www.google.com.tw/search?q=TPR+FPR&rlz=1C1GCEU_zh-TWTW819TW819&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjq5fqbmvveAhVEPrwKHbArAzcQ_AUIDigB&biw=1920&bih=969#imgrc=qz4cwxOdILeF1M:
+
+
+
+
 https://github.com/reaganwei0216/reaganwei0216.github.io
 
 https://reaganwei0216.github.io/smeg1.mp4
