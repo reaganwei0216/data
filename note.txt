@@ -1,3 +1,5 @@
+https://www.datascience.com/blog/fraud-detection-with-tensorflow
+
 https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-07-imbalanced-data/
 
 https://rpubs.com/skydome20/
