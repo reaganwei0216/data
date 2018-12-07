@@ -1,3 +1,9 @@
+https://pan.baidu.com/s/1vYs-SKS2MucEgpkIb9oaqw
+https://www.jianshu.com/p/f931a4df202c
+基於Python的的信用評分卡建模分析
+https://github.com/lavender28/-/tree/master/%E7%94%B3%E8%AF%B7%E4%BF%A1%E7%94%A8%E8%AF%84%E5%88%86%E5%8D%A1%E6%A8%A1%E5%9E%8B
+
+
 https://www.datascience.com/blog/fraud-detection-with-tensorflow
 
 處理不均衡數據(Imbalanced data)
