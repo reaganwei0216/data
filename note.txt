@@ -1,3 +1,8 @@
+HOME
+評分卡系列（一）：講講評分系統的構建
+https://hk.saowen.com/a/7a729461179b73e76ef5a54e08323d2745d427844d787f932d068aef667f6c69
+
+
 https://pan.baidu.com/s/1vYs-SKS2MucEgpkIb9oaqw
 https://www.jianshu.com/p/f931a4df202c
 基於Python的的信用評分卡建模分析
