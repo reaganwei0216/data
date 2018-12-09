@@ -1,4 +1,38 @@
-HOME
+
+判決書API
+https://github.com/0xyd/SunnyJudge
+https://5fpro.github.io/raml-api-console/?raml=https://5fpro.github.io/jrf-sunny/api/index.raml
+http://210.69.124.88/
+
+
+
+客戶流失預警模型——數據預處理與特徵衍生
+https://blog.csdn.net/pandacode/article/details/81741414
+Python機器學習實戰---用戶流失預測
+https://zhuanlan.zhihu.com/p/34669166
+用戶流失預估與監測
+http://www.rpubs.com/Ronlee/churnInKaggle
+https://zhuanlan.zhihu.com/p/45883730  v
+申請環節評分卡初探
+https://zhuanlan.zhihu.com/p/45337266  x
+反欺詐與反欺詐建模（二）- 怎麼評價你的模型
+https://zhuanlan.zhihu.com/p/36752266
+Data Visualization – Banking Case Study Example (Part 1)
+http://ucanalytics.com/blogs/data-visualization-case-study-banking/
+評分卡模型構建介紹
+https://zhuanlan.zhihu.com/p/27770760
+R Credit Scoring – WoE & Information Value in woe Package
+https://www.r-bloggers.com/r-credit-scoring-woe-information-value-in-woe-package/
+[R] 相見太晚，回頭是岸，分析WOE和IV值的神器套件
+https://bryannotes.blogspot.com/2014/10/r-woeiv.html
+信用評分卡建模分析——基於R語言
+https://zhuanlan.zhihu.com/p/29676042
+基於R語言的信用評分卡建模分析 
+https://itw01.com/2X25CEH.html
+實證分析與建構信用評分卡
+https://nccur.lib.nccu.edu.tw/bitstream/140.119/35476/7/32032207.pdf
+
+
 評分卡系列（一）：講講評分系統的構建
 https://hk.saowen.com/a/7a729461179b73e76ef5a54e08323d2745d427844d787f932d068aef667f6c69
 
