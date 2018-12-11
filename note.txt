@@ -290,6 +290,12 @@ E810
 7891
 AF7E
 
+TCTE
+CBF7
+0DB0
+45A9
+34C7
+
 https://bookdown.org/sulaxd/CreditCard/CreditCard.html
 【信用卡帳單分析案例 with R】
 
