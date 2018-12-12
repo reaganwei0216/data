@@ -1,3 +1,34 @@
+生产环境中进行机器学习模型部署（using Flask）
+https://zhuanlan.zhihu.com/p/42418356
+
+機器學習與結構化數據 (3)：部署 Web 應用程序
+https://blog.gcp.expert/ml-on-structured-data-deploy-web-application-3/
+
+TensorFlow 機器學習軟體工具入門教學與範例實作
+https://blog.gtwang.org/statistics/tensorflow-google-machine-learning-software-library-tutorial/2/
+https://cloud.google.com/blog/products/gcp/serving-real-time-scikit-learn-and-xgboost-predictions
+Serving real-time scikit-learn and XGBoost predictions
+https://github.com/amirziai/sklearnflask
+Flask API for scikit learn
+https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
+Deploying a Machine Learning Model as a REST API
+https://blog.gcp.expert/ml-on-structured-data-training-model-2-2/
+機器學習與結構化數據 (2-2)：訓練模型
+https://blog.csdn.net/ChenVast/article/details/82350275
+【机器学习】将机器学习模型部署为REST API
+https://blog.csdn.net/u012294181/article/details/54564391 *
+機器學習算法線上部署方法
+https://blog.csdn.net/kangkang13/article/details/79235039
+基於flask和docker技術的機器學習模型上線實現
+https://www.zhihu.com/question/37426733/answer/155517062
+機器學習模型如何上線或者online學習?
+https://github.com/pjpan/DataScience/blob/master/R/RServe%E7%9A%84%E6%90%AD%E5%BB%BA.md
+RServe的搭建
+https://blog.csdn.net/wangyaninglm/article/details/78118444
+基於python3-sklearn，Flask 的回歸預測系統
+https://blog.csdn.net/u014365862/article/details/78818334
+flask的web開發，用於機器學習（主要還是DL）模型的簡單演示。
+
 
 判決書API
 https://github.com/0xyd/SunnyJudge
