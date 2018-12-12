@@ -1,3 +1,5 @@
+https://github.com/JianhuaHuang/streamlineR/blob/master/Chinese_Readme.md
+
 生产环境中进行机器学习模型部署（using Flask）
 https://zhuanlan.zhihu.com/p/42418356
 
