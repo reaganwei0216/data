@@ -2,6 +2,9 @@ https://github.com/JianhuaHuang/streamlineR/blob/master/Chinese_Readme.md
 https://jianhua.shinyapps.io/streamlineR_shinyapp/
 https://www.cnblogs.com/leixingzhi7/p/9366908.html
 
+手把手教你用R语言建立信用评分模型（一）
+https://zhuanlan.zhihu.com/p/24803117
+
 生产环境中进行机器学习模型部署（using Flask）
 https://zhuanlan.zhihu.com/p/42418356
 
