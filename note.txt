@@ -1,3 +1,4 @@
+http://www.learn-r-the-easy-way.tw/
 http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/code2.html
 http://rpubs.com/skydome20/
 
