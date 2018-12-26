@@ -1,3 +1,24 @@
+woe Optimization
+http://r-statistics.co/Information-Value-With-R.html
+https://www.getit01.com/p2018022433925407/
+https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/
+http://ucanalytics.com/blogs/information-value-and-weight-of-evidencebanking-case/  *
+https://cran.r-project.org/web/packages/woeBinning/woeBinning.pdf *    woeBinning package   woe.tree.binning?
+https://blog.csdn.net/changzoe/article/details/79817642  *
+https://www.jianshu.com/p/bc17a18e48a9 *
+https://www.zhihu.com/question/67070218 *
+http://doctorsdata.blogspot.com/2016/06/r_49.html *
+http://shujuren.org/article/633.html *
+
+手把手教你用R語言建立信用評分模型（完結篇）— —打分卡轉換
+https://github.com/frankhlchi/R-scorecard
+
+數據分箱
+https://www.cnblogs.com/Christina-Notebook/p/10025470.html
+
+
+
+
 https://read01.com/mEKngDR.html#.XB22UVwzaUk
 
 在R中搭配psych套件進行描述性統計量之計算
