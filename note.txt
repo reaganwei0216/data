@@ -1,3 +1,9 @@
+Python 自動化的樂趣｜搞定重複瑣碎&單調無聊的工作
+https://nostarch.com/automatestuff
+http://books.gotop.com.tw/v_ACL048600
+http://nuehtingyu.blogspot.com/2018/04/python-1.html
+
+
 woe Optimization
 http://r-statistics.co/Information-Value-With-R.html
 https://www.getit01.com/p2018022433925407/
