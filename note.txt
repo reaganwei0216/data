@@ -1,7 +1,10 @@
+
 Python 自動化的樂趣｜搞定重複瑣碎&單調無聊的工作
 https://nostarch.com/automatestuff
 http://books.gotop.com.tw/v_ACL048600
 http://nuehtingyu.blogspot.com/2018/04/python-1.html
+使用openpyxl 去讀取，寫入，操控Excel的基本設定、表格、圖表
+http://stanley2910.pixnet.net/blog/post/142803578-python與excel連結的openpyxl模組
 
 
 woe Optimization
