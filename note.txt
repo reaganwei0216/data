@@ -19,8 +19,19 @@ https://www.zhihu.com/question/67070218 *
 http://doctorsdata.blogspot.com/2016/06/r_49.html *
 http://shujuren.org/article/633.html *
 
-手把手教你用R語言建立信用評分模型（完結篇）— —打分卡轉換
+手把手教你用R語言建立信用評分模型（一）
+https://zhuanlan.zhihu.com/p/24803117 *
+手把手教你用R語言建立信用評分模型（二）——單變量分析
+https://zhuanlan.zhihu.com/p/24954523
+手把手教你用R語言建立信用評分模型（三）— —Logistic模型建構
+https://zhuanlan.zhihu.com/p/25170268
 https://github.com/frankhlchi/R-scorecard
+
+
+https://pan.baidu.com/s/1vYs-SKS2MucEgpkIb9oaqw
+https://www.jianshu.com/p/f931a4df202c
+基於Python的的信用評分卡建模分析
+https://github.com/lavender28/-/tree/master/%E7%94%B3%E8%AF%B7%E4%BF%A1%E7%94%A8%E8%AF%84%E5%88%86%E5%8D%A1%E6%A8%A1%E5%9E%8B
 
 數據分箱
 https://www.cnblogs.com/Christina-Notebook/p/10025470.html
