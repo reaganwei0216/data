@@ -1,3 +1,5 @@
+https://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf   
+
 Machine Learning?? - 基于R的?据清洗（1）
 http://codewithzhangyi.com/2018/05/25/%E5%9F%BA%E4%BA%8ER%E7%9A%84%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%EF%BC%881%EF%BC%89/
 
