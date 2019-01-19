@@ -1,3 +1,7 @@
+20171127 當julia遇上資料科學 – SlideShare
+https://www.slideshare.net/ssuserd6984b/20171127-julia
+
+
 https://cran.r-project.org/doc/contrib/Sharma-CreditScoring.pdf   
 https://cran.r-project.org/web/packages/scorecard/scorecard.pdf
 
