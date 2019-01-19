@@ -1,3 +1,9 @@
+--https://www.tgos.tw/
+https://www.tgos.tw/TGOS_WEB_API/Web/TGOSQueryAddrSample.aspx
+https://www.tgos.tw/TGOS_WEB_API/Sample_Codes/TGOSQueryAddr/QueryAddrGoogleMap.aspx
+API 檔案或位置
+http://tgos.nat.gov.tw/tgos/Web/Address/TGOS_AddressBatchQuery.aspx
+
 --xgboost
 http://www.rpubs.com/KennyHsieh/Xgboost_tutorial
 https://medium.com/@yehjames/資料分析-機器學習-第5-2講-kaggle機器學習競賽神器xgboost介紹-1c8f55cffcc
