@@ -1,3 +1,10 @@
+--xgboost
+http://www.rpubs.com/KennyHsieh/Xgboost_tutorial
+https://medium.com/@yehjames/資料分析-機器學習-第5-2講-kaggle機器學習競賽神器xgboost介紹-1c8f55cffcc
+https://gist.github.com/yehjames/76d87e719ce09cd819eec9945c091805#file-5-2-kaggle-xgboost-ipynb
+https://hahow.in/courses/597df7e2acc137070007013c/main
+
+
 20171127 當julia遇上資料科學 – SlideShare
 https://www.slideshare.net/ssuserd6984b/20171127-julia
 
