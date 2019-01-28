@@ -6,6 +6,8 @@ http://www.drmaster.com.tw/download/example/MP21710_example.zip
 不同的optimizer以不同的路徑找到loss的最小值
 http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html
 
+https://www.tensorflow.org/images/tensors_flowing.gif
+
 
 解決Python 3 Matplotlib與Seaborn視覺化套件中文顯示問題
 https://medium.com/marketingdatascience/%E8%A7%A3%E6%B1%BApython-3-matplotlib%E8%88%87seaborn%E8%A6%96%E8%A6%BA%E5%8C%96%E5%A5%97%E4%BB%B6%E4%B8%AD%E6%96%87%E9%A1%AF%E7%A4%BA%E5%95%8F%E9%A1%8C-f7b3773a889b
