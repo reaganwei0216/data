@@ -1,3 +1,8 @@
+GCP coursera
+https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp/?utm_medium=institutions&utm_source=googlecloud&utm_campaign=GoogleCloudBlog-AdvancedML
+
+
+
 TensorFlow+Keras深度學習人工智慧實務應用
 http://tensorflowkeras.blogspot.com/
 http://www.drmaster.com.tw/download/example/MP21710_example.zip
