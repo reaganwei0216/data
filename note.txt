@@ -1,6 +1,8 @@
 TensorFlow+Keras深度學習人工智慧實務應用
 http://tensorflowkeras.blogspot.com/
 http://www.drmaster.com.tw/download/example/MP21710_example.zip
+不同optimizer有不同的訓練效果
+http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html
 
 
 解決Python 3 Matplotlib與Seaborn視覺化套件中文顯示問題
