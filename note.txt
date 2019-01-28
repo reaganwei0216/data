@@ -1,7 +1,9 @@
 TensorFlow+Keras深度學習人工智慧實務應用
 http://tensorflowkeras.blogspot.com/
 http://www.drmaster.com.tw/download/example/MP21710_example.zip
-不同optimizer有不同的訓練效果
+
+不同的optimizer有不同的訓練效果
+不同的optimizer以不同的路徑找到loss的最小值
 http://www.denizyuret.com/2015/03/alec-radfords-animations-for.html
 
 
