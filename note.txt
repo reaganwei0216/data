@@ -1,3 +1,30 @@
+
+# 找出字體所在位置
+from matplotlib.font_manager import findfont, FontProperties  
+findfont(FontProperties(family=FontProperties().get_family()))
+#C:\\Users\\reaganwei\\Anaconda3\\envs\\win\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\msj.ttf'
+
+# 範例：
+#C:\Users\reaganwei\Anaconda3\envs\win\lib\site-packages\matplotlib\mpl-data\
+# C:\Users\reaganwei\Anaconda3\lib\site-packages\matplotlib\mpl-data
+# 到 matplotlibrc，搜尋font.sans-serif，加入Microsoft JhengHei 
+# C:\Users\reaganwei 然後刪除.matplotlib
+# 將字體(C:\Users\reaganwei\Documents\Speech2Text_workshop_advance\02_繪圖設定\msj.ttf)丟入 C:\Users\reaganwei\Anaconda3\envs\win\lib\site-packages\matplotlib\mpl-data\fonts\ttf
+ 
+###### matplotlib 測試中文顯示 ######
+from matplotlib.font_manager import FontProperties 
+import matplotlib.pyplot as plt  
+plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei'] 
+plt.rcParams['axes.unicode_minus'] = False  
+plt.plot((1,2,3),(4,3,-1))  
+plt.title("聲量圖")  
+plt.ylabel("文章數量")  
+plt.xlabel("品牌名稱")   
+plt.show()
+
+
+
+
 --AE
 https://www.jianshu.com/p/95a1b1118187
 https://weiminwang.blog/2017/06/23/credit-card-fraud-detection-using-auto-encoder-in-tensorflow-2/
