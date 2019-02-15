@@ -1,5 +1,8 @@
 https://tableau.egnyte.com/dl/hbGG642dZk
 
+R語言模型部署實戰
+https://www.jianshu.com/p/493fcd24aab9
+
 用 R 來玩玩地圖吧！起手式基礎篇
 http://map-testing.blogspot.com/2016/09/r.html
 
