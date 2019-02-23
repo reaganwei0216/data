@@ -1,4 +1,81 @@
 
+臺北市自來水水費爬蟲程式
+
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+import io 
+import json
+
+#tStart = time.time()#計時開始
+input='4200041207'
+
+proxies = {
+  "http": "http:\\proxy.ncue.edu.tw:3128",
+  "https": "http:\\120.107.179.252:1080",
+}
+
+
+headers={'Access-Control-Request-Headers': 'content-type',
+         'Access-Control-Request-Method': 'POST',
+         'Origin': 'https://www.water.gov.taipei',
+         'Referer': 'https://www.water.gov.taipei/cp.aspx?n=4F902D208599262F',
+         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36'}
+#登入劃面
+#url = 'https://www.water.gov.taipei/cp.aspx?n=4F902D208599262F'
+
+#AJAX 讀取資料
+url ='https://webs.water.gov.taipei/apps/getWater.asmx/Waterlist'
+#關閉多餘連線，節省資源
+s = requests.session()
+s.keep_alive = False
+
+#確保SESSION是同一個
+session_requests = requests.session()
+
+
+payload = {'value':input}
+res = requests.post(url  , json = payload) 
+res.encoding='utf-8'
+
+#取得基本資料
+data = res.json() 
+print(res.status_code)
+print(data)
+
+
+d=data['d']
+#取得字串，再轉一次JSON資料，並取得水表資料
+typeid=json.loads(str(d))['type']
+water_id=json.loads(str(d))['List'][0]['water_id']
+
+print(typeid)
+print(waterid)
+
+#第二階段取得實際水費
+url='https://webs.water.gov.taipei/apps/getWater.asmx/Waterbasic'
+payload = { 'wid': waterid, 'type':typeid}
+res = requests.post(url  , json = payload) 
+res.encoding='utf-8'
+
+#取得費用資料
+dataFee = res.json() 
+#print(res.status_code)
+#print(dataFee)
+
+#解析水費JSON資料
+d=dataFee['d']
+json.loads(d)['Period']
+
+pd.DataFrame(json.loads(d)['Period'])
+
+
+
+央銀行金融機構牌告資訊利率專區，如下：
+https://bcf.cbc.gov.tw/BIRWEB/Range/RangeSelect 
+
+
 https://www.cs.toronto.edu/~radford/ftp/pqR-guelph.pdf
 
 13680	個別金融機構牌告存放款利率
