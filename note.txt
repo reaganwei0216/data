@@ -1,4 +1,6 @@
 
+https://www.cs.toronto.edu/~radford/ftp/pqR-guelph.pdf
+
 前日金融機構牌告存放款利率異動資訊
 https://data.gov.tw/dataset/10363
 金融機構牌告存放款利率
