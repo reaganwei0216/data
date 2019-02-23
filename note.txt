@@ -1,6 +1,8 @@
 
 https://www.cs.toronto.edu/~radford/ftp/pqR-guelph.pdf
 
+13680	個別金融機構牌告存放款利率
+
 前日金融機構牌告存放款利率異動資訊
 https://data.gov.tw/dataset/10363
 金融機構牌告存放款利率
@@ -12,7 +14,9 @@ https://data.gov.tw/dataset/6023
 每月)
 https://data.gov.tw/dataset/10359	
 個別金融機構牌告存放款利率
-https://www.cbc.gov.tw/sp.asp?xdurl=gopher/chi/busd/bkrate/banklist1.asp&ctNode=809
+https://www.cbc.gov.tw/sp.asp?xdurl=gopher/chi/busd/bkrate/banklist1.asp&ctNode=809  @@
+
+https://www.cbc.gov.tw/lp.asp?ctNode=1032&CtUnit=571&BaseDSD=7&mp=1    本行已開放資料集清單   @@
 
 
 經濟地理資訊系統
