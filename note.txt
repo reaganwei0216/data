@@ -1,3 +1,29 @@
+
+前日金融機構牌告存放款利率異動資訊
+https://data.gov.tw/dataset/10363
+金融機構牌告存放款利率
+https://data.gov.tw/dataset/9464
+金融業隔夜拆款利率
+https://data.gov.tw/dataset/6023
+五大銀行存放款利率歷史月資料
+(五大銀行:90年1月~97年10月為臺銀、彰銀、合庫、一銀、華銀；97年11月後，調整為臺銀、土銀、合庫、一銀、華銀。)(更新頻率:
+每月)
+https://data.gov.tw/dataset/10359	
+個別金融機構牌告存放款利率
+https://www.cbc.gov.tw/sp.asp?xdurl=gopher/chi/busd/bkrate/banklist1.asp&ctNode=809
+
+
+經濟地理資訊系統
+點線面查詢功能的概念是提供使用者所在位置或針對欲查詢的位置(可以是點、線或面)結合環域分析的功能，查詢附近的經濟資訊。
+https://egis.moea.gov.tw/OpenData/
+https://egis.moea.gov.tw/EgisWeb/
+https://egis.moea.gov.tw/MoeaEGPortal/App_PointQuery
+
+--power shell 修改檔案時間
+https://ithelp.ithome.com.tw/questions/10184943
+$(Get-Item .\df_by_bank_brnh.CSV).LastWriteTime=$(Get-Date "02/20/2019 11:12 am")
+
+
 https://tableau.egnyte.com/dl/hbGG642dZk
 
 R語言模型部署實戰
