@@ -72,6 +72,23 @@ pd.DataFrame(json.loads(d)['Period'])
 
 
 
+
+
+
+[R]在R中使用system呼叫python-給予參數
+http://shihs-blog.logdown.com/posts/1743065-call-python-script-from-r-with-arguments
+
+[Python][爬蟲]如何刪除網頁中的&nbsp;
+http://shihs-blog.logdown.com/posts/1846375-how-to-remove-nbsp
+
+馬嘉應
+http://web-ch.scu.edu.tw/acc/teacher_resume/4223/703
+
+
+
+
+
+
 央銀行金融機構牌告資訊利率專區，如下：
 https://bcf.cbc.gov.tw/BIRWEB/Range/RangeSelect 
 
