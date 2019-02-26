@@ -1,4 +1,11 @@
 
+https://app2.sli.do/event/1rgts8s9/live
+進階在 Google 雲端平台 用 TensorFlow 機器學習的專業課程
+https://softnshare.com/advanced-machine-learning-with-tensorflow-on-google-cloud-platform/?fbclid=IwAR112aSjDJMYGAd8virOQbrBN41fs5vOtP3MuNB2uNas0tNIn5kEq_ROSDg
+使用 TensorFlow 實做機器學習 + 商業實戰案例
+https://softnshare.com/machine-learning-tensorflow-real-life-business-case/?fbclid=IwAR2mo1etuB1Nd4GuYmRT9pZABUlHSgNB2_p-oGQvNsDCsbGqOL9dvulA07U
+
+
 [R]在R中使用system呼叫python-給予參數
 http://shihs-blog.logdown.com/posts/1743065-call-python-script-from-r-with-arguments
 
