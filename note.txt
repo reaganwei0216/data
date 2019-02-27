@@ -1,6 +1,9 @@
 使用 sparklyr 和 Apache Spark 2.0 分析放在 Amazon S3 上的美國飛航資料
 http://www.athemaster.com/resources/30
 
+企業數位化這條天堂路：IBM、勤業眾信談如何透過數位化找到對的溫度 │老闆學校講座
+https://panx.asia/archives/59867
+
 
 台灣資料工程協會
 https://www.facebook.com/groups/dataengineering.tw
