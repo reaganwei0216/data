@@ -4,6 +4,9 @@ http://www.athemaster.com/resources/30
 企業數位化這條天堂路：IBM、勤業眾信談如何透過數位化找到對的溫度 │老闆學校講座
 https://panx.asia/archives/59867
 
+透過 Google Colaboratory 學習使用 Python 做機器學習等科學計算
+https://medium.com/@ericsk/%E9%80%8F%E9%81%8E-google-colaboratory-%E5%AD%B8%E7%BF%92%E4%BD%BF%E7%94%A8-python-%E5%81%9A%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%AD%89%E7%A7%91%E5%AD%B8%E8%A8%88%E7%AE%97-9f92c7bb1f50
+
 
 台灣資料工程協會
 https://www.facebook.com/groups/dataengineering.tw
