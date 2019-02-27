@@ -1,3 +1,7 @@
+使用 sparklyr 和 Apache Spark 2.0 分析放在 Amazon S3 上的美國飛航資料
+http://www.athemaster.com/resources/30
+
+
 台灣資料工程協會
 https://www.facebook.com/groups/dataengineering.tw
 
