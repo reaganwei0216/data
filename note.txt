@@ -25,6 +25,42 @@ https://www.google.com/search?q=CloudFront+load+balancer&source=lnms&tbm=isch&sa
 https://www.google.com/search?q=ElastiCache+Elastic+Load+Balancing&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiu7K3w_IrhAhVIOrwKHfW9DeUQ_AUIDigB&biw=1280&bih=610#imgrc=kCUXKQ1YC4CA1M:
 
 
+劍橋分析公司
+https://agirls.aotter.net/post/53157
+
+https://www.youtube.com/watch?v=eqDSMrmH94c
+5000萬臉書用戶個資遭濫用，發生了什麼事？你我該擔心嗎？｜國際大風吹EP3
+一家幫川普打選戰的政治行銷公司，違規取得5000萬臉書用戶資料，釀成臉書史上最大信心危機。
+終於了解整個事件發生始末以及延伸的議題
+凸顯的重點都更容易傳達
+
+5個臉書犯下的錯誤
+https://www.youtube.com/watch?v=gnD379RsoCM
+
+【民視全球新聞】臉書崩壞!?大規模個資外洩
+https://www.youtube.com/watch?v=EGtxyvBCvMM
+
+【瑩真律師】臉書個資外洩 一個步驟教你輕鬆守護個資  0300  x
+https://www.youtube.com/watch?v=njuvSq0zudM
+
+不准馬雲躺著賺 人行接管支付寶 大陸急割韭菜怕什麼？-陳高超 朱岳中 江中博《夢想街之全能事務所》精華篇 網路獨播版
+https://www.youtube.com/watch?v=oKNcSqtDQQY
+
+阿里云简介
+https://www.youtube.com/watch?v=_FducGQOl_k&list=PLGmd9-PCMLhbNvdIUDR8ozIGqPORWnXB_
+阿里云 完整的體系架構 0512 	~0812
+https://www.youtube.com/watch?v=_FducGQOl_k&list=PLGmd9-PCMLhbNvdIUDR8ozIGqPORWnXB_&index=2
+阿里云 應用架構  19:43  ~12:32
+https://www.youtube.com/watch?v=Yyfs_L3kwXk&list=PLGmd9-PCMLhbNvdIUDR8ozIGqPORWnXB_&index=3
+
+國際大風吹｜中國「兩會」是什麼？為什麼有台灣代表？｜EP43
+https://www.youtube.com/watch?v=qc2x16_S93o
+
+
+
+
+
+
 
 
 使用 sparklyr 和 Apache Spark 2.0 分析放在 Amazon S3 上的美國飛航資料
