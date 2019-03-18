@@ -1,3 +1,32 @@
+http://www.10tiao.com/html/587/201512/416397018/1.html
+王堅博士加盟阿里巴巴，然後經過了“讓上帝都發笑”的思考，作出成立阿里雲計算公司的決定。
+2009年阿里巴巴的第一朵雲——聚石塔粗線了。再然後，2012年聚石塔創造了0漏單、0故障的奇蹟。最後，人們開始相信“雲”的能力。
+2009年，阿里雲計算有限公司成立。
+2012年，第一朵雲——電商雲“聚石塔”成功運行。
+2013年12月-2015年6月，登月計劃完成。
+2015年雙11前夕，淘寶支付寶核心應用單元搬上阿里雲。
+https://technews.tw/2014/11/05/alibaba-1111-shopping-festival/#more-58523
+
+Elastic Load Balancing
+CloudFront
+Amazon ElastiCache
+AWS Auto Scaling
+
+
+AWS Webinar-Introducing Amazon ElastiCache for Redis
+
+https://ithelp.ithome.com.tw/articles/10195376
+Amazon Cloud Service 30 days challenge
+https://ithelp.ithome.com.tw/articles/10195376
+30天鐵人賽介紹 AWS 雲端世界 - 27: AWS 的雲端緩存服務 ElastiCache
+https://www.google.com/search?q=CloudFront+load+balancer&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjLsOL9-4rhAhUbx4sBHWdxC3kQ_AUIDigB&biw=1280&bih=610#imgrc=2DtT2xIt4gd6yM:
+
+
+https://www.google.com/search?q=ElastiCache+Elastic+Load+Balancing&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiu7K3w_IrhAhVIOrwKHfW9DeUQ_AUIDigB&biw=1280&bih=610#imgrc=kCUXKQ1YC4CA1M:
+
+
+
+
 使用 sparklyr 和 Apache Spark 2.0 分析放在 Amazon S3 上的美國飛航資料
 http://www.athemaster.com/resources/30
 
