@@ -34,19 +34,292 @@ get_ipython().system(' pip install urllib3')
 import urllib,urllib3
 
 
-# In[40]:
+# In[99]:
+
+
+# https://ithelp.ithome.com.tw/articles/10204773?sc=iThelpR
+# https://www.finlab.tw/Python%EF%BC%9A%E5%88%A9%E7%94%A8Pandas%E8%BC%95%E9%AC%86%E9%81%B8%E8%82%A1/
+url = 'https://www.cbc.gov.tw/sp.asp?xdurl=gopher/chi/busd/bkrate/interestrate.asp&ctNode=809'
+# form_data = {"CompanyNo": "0530000"}
+form_data = {"CompanyNo": "0040000"} #臺灣銀行
+response = requests.post(url,form_data)
+response.encoding = 'utf8'
+response.text
+# soup=BeautifulSoup(res_post.text,'html.parser',from_encoding='iso-gb18030-8')
+# soup=BeautifulSoup(res_post.text,'html.parser',exclude_encodings=['utf-8','iso-gb18030-8','big5'])
+# print(soup.prettify())
+
+
+# In[185]:
+
+
+str = "資料日期："
+date = int(response.text[response.text.find(str)+len(str):response.text.find(str)+len(str)+9].replace("/", ""))
+date
+
+
+# In[72]:
+
+
+# table_array =response.text.split('<table')
+
+
+# In[73]:
+
+
+# table_array
+
+
+# In[76]:
+
+
+# type(table_array)
+
+
+# In[77]:
+
+
+# len(table_array)
+
+
+# In[78]:
+
+
+# table_array[0]
+
+
+# In[79]:
+
+
+# table_array[1]
+
+
+# In[80]:
+
+
+# table_array[2]
+
+
+# In[81]:
+
+
+# table_array[3]
+
+
+# In[82]:
+
+
+# tr_array = table_array[3].split('<tr')
+
+
+# In[83]:
+
+
+# type(tr_array)
+
+
+# In[84]:
+
+
+# len(tr_array)
+
+
+# In[85]:
+
+
+# tr_array[0]
+
+
+# In[86]:
+
+
+# tr_array[1] #牌告利率項目
+
+
+# In[87]:
+
+
+# tr_array[2] #活期存款
+
+
+# In[101]:
+
+
+# tr_array[45] #基準利率月指標利率
+
+
+# In[100]:
+
+
+# tr_array[46]  #月基準利率
+
+
+# In[135]:
+
+
+import pandas as pd
+pd.read_html(response.text)
+type(pd.read_html(response.text)) #list
+len(pd.read_html(response.text)) # 4
+df = pd.read_html(response.text)[2]
+df
+
+
+# In[136]:
+
+
+df.columns
+
+
+# In[137]:
+
+
+# [Day09]Pandas索引的運用！
+# https://ithelp.ithome.com.tw/articles/10194006
+
+
+# In[138]:
+
+
+# 根據row index進行索引
+df.loc[0]
+
+
+# In[139]:
+
+
+df.columns=df.loc[0]
+
+
+# In[140]:
+
+
+df
+
+
+# In[141]:
+
+
+# 根據row index進行索引
+df.loc[0]
+
+
+# In[142]:
+
+
+df.drop([0],inplace =True)
+
+
+# In[143]:
+
+
+df
+
+
+# In[144]:
+
+
+df['金融機構']="臺灣銀行"
+
+
+# In[145]:
+
+
+df
+
+
+# In[183]:
+
+
+df['資料日期']=date
+
+
+# In[184]:
+
+
+df.head()
+
+
+# In[96]:
+
+
+type(pd.read_html(response.text)[2])
+
+
+# In[91]:
+
+
+import pandas as pd
+url = 'http://www.stockq.org/market/asia.php'
+pd.read_html(url)[2]
+
+
+# In[106]:
+
+
+import pandas as pd
+url = 'http://www.stockq.org/market/asia.php'
+df = pd.read_html(url)[4]
+df
+
+
+# In[ ]:
+
+
+import pandas as pd
+url = 'http://www.stockq.org/market/asia.php'
+table = pd.read_html(url)[4]
+table = table.drop(table.columns[[0,1,2,3,4]],axis=0)
+table = table.drop(table.columns[9:296],axis=1)
+table
+
+
+# In[104]:
+
+
+import pandas as pd
+url = 'http://www.stockq.org/market/asia.php'
+table = pd.read_html(url)[4]
+table.columns
+
+
+# In[98]:
 
 
 url = 'https://www.cbc.gov.tw/sp.asp?xdurl=gopher/chi/busd/bkrate/interestrate.asp&ctNode=809'
-form_data = {"CompanyNo": "0530000"}
+# form_data = {"CompanyNo": "0530000"}
+form_data = {"CompanyNo": "0040000"} #臺灣銀行
 res_post = requests.post(url,data = form_data)
 res_post.text
-# soup=BeautifulSoup(res_post.text,'html.parser',from_encoding='utf-8')
+
+
+# In[97]:
+
+
+url = 'https://www.cbc.gov.tw/sp.asp?xdurl=gopher/chi/busd/bkrate/interestrate.asp&ctNode=809'
+# form_data = {"CompanyNo": "0530000"}
+form_data = {"CompanyNo": "0040000"} #臺灣銀行
+res_post = requests.post(url,data = form_data)
+res_post.text
+soup=BeautifulSoup(res_post.text,'lxml',from_encoding='utf-8')
 # soup=BeautifulSoup(res_post.text,'html.parser',from_encoding='iso-8859-8')
 # soup=BeautifulSoup(res_post.text,'html.parser',from_encoding='big5')
 # soup=BeautifulSoup(res_post.text,'lxml',from_encoding='gb18030')
-soup=BeautifulSoup(res_post.text,'lxml',exclude_encodings=['utf-8','iso-gb18030-8','big5'])
+
+# soup=BeautifulSoup(res_post.text,'lxml',exclude_encodings=['utf-8','iso-gb18030-8','big5'])
 print(soup.prettify())
+
+
+# In[48]:
+
+
+soup.title
+
+
+# In[52]:
+
+
+soup.title.encode('gb18030')
 
 
 # In[34]:
