@@ -1,3 +1,75 @@
+getwd()
+setwd("C:\\Users\\reaganwei\\Downloads")
+rm(list=ls()) #completely clear the workspace 
+library("dplyr") 
+library("sqldf")
+library(readxl)
+
+cround = function(x,n){
+  vorz = sign(x)
+  z = abs(x)* 10 ^ n 
+  z = z + 0.5 
+  z = trunc(z)
+  z = z /10 ^ n
+  z * vorz 
+} 
+
+
+data <- read_excel("5.8-6.6.xlsx", skip = 1)
+View(data)
+data <- data[1:(dim(data)[1]-6),c('申請銀行','流用碼','保證金額','核准額度','成數','專案狀態')]
+                       names(data) <- c("bank",'seq','grnt_amount',"amount","persentage","status")
+data$bank2 <- substr(data$bank, 1, 2)
+table(data$status)
+head(data)
+# bank       seq grnt_amount   amount persentage status   bank2
+# <chr>    <dbl>       <dbl>    <dbl>      <dbl> <chr>    <chr>
+# 1 台銀彰化    1.    1600000. 2000000.         8. 未動用   台銀 
+# 2 台銀彰化    1.     800000. 1000000.         8. 未動用   台銀 
+# 3 台銀台東    1.    1600000. 2000000.         8. 動用完畢 台銀 
+# 4 台銀台東    1.    4800000. 6000000.         8. 未動用   台銀 
+# 5 台銀台東    1.    1600000. 2000000.         8. 未動用   台銀 
+# 6 台銀苗栗    1.    2400000. 3000000.         8. 未動用   台銀 
+# str(data$seq)
+# 已動用   未動用 動用完畢     無效 
+# 159     1588      308      231
+# pkgs <- c("magrittr", "dplyr")
+# install.packages(pkgs)
+# library(magrittr)
+
+# 核准貸款金額是'核准額度'
+# 平均保證成數是sum('保證金額')/sum('核准額度')
+GRNT<-sqldf("SELECT bank2,count(bank2) as BANK,sum(amount) as AMOUNT,sum(grnt_amount)/sum(amount) as PERSENTAGE FROM data where seq=1 group by bank2 order by AMOUNT desc",drv="SQLite")
+names(GRNT)
+GRNT$PERSENTAGE <- cround(GRNT$PERSENTAGE*10,2)
+df = data.frame(bank2 = "合計", BANK = sum(GRNT$BANK),AMOUNT=sum(GRNT$AMOUNT),PERSENTAGE='')
+View(df)
+GRNT <- rbind(GRNT, df)
+GRNT$AMOUNT <- cround(GRNT$AMOUNT/1000,0)
+names(GRNT) <- c('送保銀行','保證筆數','核准貸款金額(千元)','平均保證成數')
+View(GRNT)
+
+
+# 核准動用保證金額是'保證金額'
+USER<-sqldf("SELECT bank2,count(bank2) as BANK,sum(grnt_amount) as GRNT_AMOUNT FROM   data WHERE ( status='已動用' OR status='動用完畢') and seq=1 group by bank2  order by GRNT_AMOUNT desc",drv="SQLite")
+View(USER)
+names(USER)
+df = data.frame(bank2 = "合計", BANK = sum(USER$BANK),GRNT_AMOUNT=sum(USER$GRNT_AMOUNT))
+USER <- rbind(USER, df)
+USER$GRNT_AMOUNT <- cround(USER$GRNT_AMOUNT/1000,0)
+names(USER) <- c('送保銀行','已動用筆數','核准動用保證金額(千元)')
+View(USER)
+
+
+NOTUSER<-sqldf("SELECT bank2,count(bank2) as BANK FROM   data WHERE status='未動用'  and seq=1 group by bank2  order by BANK desc ",drv="SQLite")
+View(NOTUSER)
+names(NOTUSER)
+df = data.frame(bank2 = "合計", BANK = sum(NOTUSER$BANK))
+NOTUSER <- rbind(NOTUSER, df)
+names(NOTUSER) <- c('送保銀行','未動用筆數')
+View(NOTUSER)
+
+
 20180510 Tableau使用經驗分享 - SlideShare
 https://www.slideshare.net/DoEnergy/20180510-tableau
 
