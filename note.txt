@@ -1,3 +1,15 @@
+
+HTML - 來爬個司法判決書資料吧
+https://law.judicial.gov.tw/FJUD/
+司法陽光網判決API
+https://5fpro.github.io/raml-api-console/?raml=https://5fpro.github.io/jrf-sunny/api/index.raml
+
+
+https://www.water.gov.tw/mobile_watersearch.aspx
+https://www.water.gov.taipei/cp.aspx?n=4F902D208599262F
+北水4200041207
+台水C1233320050
+
 getwd()
 setwd("C:\\Users\\reaganwei\\Downloads")
 rm(list=ls()) #completely clear the workspace 
