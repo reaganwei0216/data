@@ -7,3 +7,5 @@ Password:
 Password:
 Password:
 Password:
+99
+psql.exe ¡Vh localhost ¡Vp 5432 ¡VU postgres DWDB < D:\EDB\pg_dumpall.sql
