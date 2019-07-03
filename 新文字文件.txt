@@ -1,0 +1,9 @@
+Backup and Restore a PostgreSQL Database
+https://axiomq.com/blog/backup-and-restore-a-postgresql-database/
+63
+D:\EDB\as109\bin>pg_dumpall.exe --file "D:\EDB\as109\pg_dumpall_1080703.sql" --host "localhost" --port "5432" --username "postgres"
+Password:
+Password:
+Password:
+Password:
+Password:
