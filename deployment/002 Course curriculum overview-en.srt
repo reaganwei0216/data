@@ -1,0 +1,383 @@
+1
+00:00:00,180 --> 00:00:07,320
+Welcome to the video on the course curriculum overview the course deployment of machine learning mothers
+
+2
+00:00:07,350 --> 00:00:13,530
+contains 13 sections each one covering one key aspect of modern deployment.
+
+3
+00:00:13,630 --> 00:00:16,630
+The first section is an introduction section.
+
+4
+00:00:16,630 --> 00:00:22,900
+It contains an introduction to the course on the instructors the course curriculum overview and the
+
+5
+00:00:22,900 --> 00:00:28,210
+knowledge requirements that ideally you would have to make the most out of this course.
+
+6
+00:00:28,220 --> 00:00:33,380
+It also contains some guidance on how to approach this course to maximize the knowledge that you can
+
+7
+00:00:33,380 --> 00:00:36,970
+get from it in Section 2.
+
+8
+00:00:37,010 --> 00:00:41,860
+We will recap on the different steps of a typical machine learning pipeline.
+
+9
+00:00:41,960 --> 00:00:47,190
+We will give you an overview of data gathering feature engineering feature selection.
+
+10
+00:00:47,270 --> 00:00:51,600
+Building the machine learning models and assessing the machine learning models.
+
+11
+00:00:51,940 --> 00:00:56,970
+We will cover the different steps both from a theory and a practical point of view.
+
+12
+00:00:57,020 --> 00:01:02,140
+We will take you through a practical example of a typical machine learning pipeline to predict how the
+
+13
+00:01:02,140 --> 00:01:03,420
+sale price.
+
+14
+00:01:03,840 --> 00:01:09,170
+And this will create our start in machine learning model and code base to deploy the machine learning
+
+15
+00:01:09,170 --> 00:01:10,420
+model.
+
+16
+00:01:10,550 --> 00:01:17,240
+Then we will cover the system architecture required to set up a research and deployment machine learning
+
+17
+00:01:17,240 --> 00:01:23,930
+pipeline you will learn what is a machine learning system architecture and why it is important.
+
+18
+00:01:24,200 --> 00:01:29,970
+You will learn the different challenges encountered when creating a suitable system architecture.
+
+19
+00:01:30,050 --> 00:01:36,710
+We will show you different architecture approaches and also the different architecture components.
+
+20
+00:01:36,710 --> 00:01:42,260
+Finally you will learn about the importance of building reproducible machine learning pipelines right
+
+21
+00:01:42,260 --> 00:01:46,770
+from the start of any machine learning project in Section 4.
+
+22
+00:01:46,910 --> 00:01:53,740
+You will learn how to write production code to deploy a machine learning model for data scientists.
+
+23
+00:01:53,780 --> 00:02:01,370
+This mean how to transform your Jupiter notebooks into production ready code go that is testable tractable
+
+24
+00:02:01,430 --> 00:02:02,950
+and reproducible.
+
+25
+00:02:03,200 --> 00:02:07,050
+You will learn the different ways available unused in the industry.
+
+26
+00:02:07,220 --> 00:02:12,950
+You will learn how to code and deploy mothers using procedural programming or object oriented programming
+
+27
+00:02:12,970 --> 00:02:20,600
+creating a custom pipeline for your business and also how to write code utilizing object oriented programming
+
+28
+00:02:20,720 --> 00:02:24,680
+and liberating the power of a third party pipeline.
+
+29
+00:02:24,680 --> 00:02:31,300
+This pipeline will be the industry standard pipeline from cyclone we will discuss the pros and cons
+
+30
+00:02:31,360 --> 00:02:35,520
+of each implementation and our preferred option.
+
+31
+00:02:35,530 --> 00:02:41,050
+This section includes a bonus lecture discussing whether we should include feature selection algorithms
+
+32
+00:02:41,140 --> 00:02:44,670
+as part of the pipeline after this section.
+
+33
+00:02:44,760 --> 00:02:50,460
+You will have transformed your Jupiter notebooks into production already cold and we are ready to move
+
+34
+00:02:50,460 --> 00:02:52,770
+on to create an API.
+
+35
+00:02:52,770 --> 00:03:00,320
+Section 5 is designed to get you up to speed with the key tools that we will use throughout the course.
+
+36
+00:03:00,360 --> 00:03:06,360
+There are a few videos on installing configuring and how to use it.
+
+37
+00:03:06,420 --> 00:03:09,570
+We will recap on system and Python path.
+
+38
+00:03:09,600 --> 00:03:13,850
+We will give you an overview of virtual environments and how we are going to use them.
+
+39
+00:03:13,860 --> 00:03:21,630
+In this course we will also recap on text editors and I.D. and show you which one we will use throughout
+
+40
+00:03:21,630 --> 00:03:23,370
+the course.
+
+41
+00:03:23,370 --> 00:03:29,090
+Then we will wrap up with resources and guidance for engineering and Python best practices.
+
+42
+00:03:29,160 --> 00:03:33,480
+Make sure you don't miss this section in section 6.
+
+43
+00:03:33,480 --> 00:03:39,900
+We will continue building on from Section 4 where we wrote the code for deployment.
+
+44
+00:03:39,900 --> 00:03:45,520
+We will create a simple application to train a mother and to make predictions with it.
+
+45
+00:03:45,570 --> 00:03:51,780
+We will discuss about God just to capture they think about ability and you will learn to use versioning
+
+46
+00:03:51,900 --> 00:03:54,450
+and logging in your application.
+
+47
+00:03:54,450 --> 00:03:58,230
+You will also learn how to build the model into a Python package.
+
+48
+00:03:58,230 --> 00:04:02,330
+All key aspects of modern deployment in Section 7.
+
+49
+00:04:02,490 --> 00:04:06,810
+We will deploy our model into a rest api.
+
+50
+00:04:06,810 --> 00:04:12,080
+You will learn how to build the API skeleton for those less familiar with flask.
+
+51
+00:04:12,090 --> 00:04:17,790
+We included a lecture with an introduction to flask and you will also learn about the version in unlocking
+
+52
+00:04:17,960 --> 00:04:21,990
+in the API and also about schema validation.
+
+53
+00:04:21,990 --> 00:04:27,620
+Again all best practices while deploying machine learning models in Section 8.
+
+54
+00:04:27,690 --> 00:04:33,770
+You will learn how to set up a continuous integration and continuous deployment pipeline.
+
+55
+00:04:33,870 --> 00:04:37,060
+We will show you how to do so using psycho S.I..
+
+56
+00:04:37,720 --> 00:04:41,580
+We will show you how to set it up and how to configure it.
+
+57
+00:04:41,610 --> 00:04:47,940
+You will also learn how to publish your mothers using Jim Fury a tool that is used in the industry and
+
+58
+00:04:47,940 --> 00:04:54,120
+you will also learn how to test your continuous integration continuous deployment pipeline in Section
+
+59
+00:04:54,120 --> 00:04:54,850
+9.
+
+60
+00:04:54,900 --> 00:05:00,600
+You will learn about the importance of testing and how to set up differential tests for your machine
+
+61
+00:05:00,600 --> 00:05:04,660
+learning pipeline to ensure reproducibility.
+
+62
+00:05:04,680 --> 00:05:10,080
+We will also show you how to integrate these differentials tests with the continuous integration pipeline
+
+63
+00:05:10,710 --> 00:05:11,990
+in Section 10.
+
+64
+00:05:12,030 --> 00:05:17,060
+You will learn how to deploy a model using platform as a service.
+
+65
+00:05:17,220 --> 00:05:20,170
+You will learn what platform as a service is.
+
+66
+00:05:20,490 --> 00:05:22,790
+We will be using Hiroko for this course.
+
+67
+00:05:23,090 --> 00:05:28,590
+So you will learn how to create the Heroku account and how to configure it to deploy your mothers and
+
+68
+00:05:28,590 --> 00:05:31,770
+then you will deploy your mother using Heroku.
+
+69
+00:05:31,830 --> 00:05:38,820
+You will also implement testing and continuous integration using Heroku in section eleven.
+
+70
+00:05:38,820 --> 00:05:43,480
+You will learn how to containerized your application using Docker.
+
+71
+00:05:43,770 --> 00:05:47,490
+You will learn about containers and about Docker.
+
+72
+00:05:47,490 --> 00:05:53,190
+We will also show you how to install Docker and how to create an API Docker file.
+
+73
+00:05:53,310 --> 00:05:59,460
+You will also learn how to build and run a docker container and how to release a Heroku application
+
+74
+00:05:59,790 --> 00:06:01,230
+using Docker.
+
+75
+00:06:01,230 --> 00:06:07,600
+Section Twelve is a very comprehensive section where you will learn how to deploy your mother's use
+
+76
+00:06:07,630 --> 00:06:10,290
+in infrastructure as a service.
+
+77
+00:06:10,290 --> 00:06:18,990
+In this course with just to use a W as you will learn how to create and set up an AWB account how to
+
+78
+00:06:18,990 --> 00:06:23,690
+install a configure the AWB s command line interface.
+
+79
+00:06:24,120 --> 00:06:30,990
+You will learn how to create an elastic container registry and upload images to it and you will also
+
+80
+00:06:30,990 --> 00:06:37,830
+learn everything about creating and updating an easy s cluster and how to deploy to an easy s cluster
+
+81
+00:06:37,830 --> 00:06:41,760
+using continuous integration in Section 13.
+
+82
+00:06:41,760 --> 00:06:48,870
+We will cover how to deploy your mother that was trained on and needs to score big heavy data.
+
+83
+00:06:48,900 --> 00:06:55,290
+We will introduce a new challenge and new data set to classify images using a convolution on neural
+
+84
+00:06:55,320 --> 00:07:01,740
+network and then you will learn how to update your application to accommodate mothers that consume Big
+
+85
+00:07:01,740 --> 00:07:02,570
+Data.
+
+86
+00:07:02,580 --> 00:07:09,450
+You will also learn how to use a W S S3 for large data sets in section 14.
+
+87
+00:07:09,690 --> 00:07:16,290
+We will recap on the problems that are usually encountered during model deployment and how we can go
+
+88
+00:07:16,290 --> 00:07:20,910
+about to identify those problems and resolve them.
+
+89
+00:07:20,910 --> 00:07:27,600
+After this section you will find the final section with suggestions of next steps on this count belches
+
+90
+00:07:27,660 --> 00:07:35,190
+for the instructors other courses after this course you should feel comfortable to deploy any machine
+
+91
+00:07:35,190 --> 00:07:42,610
+learning model in various infrastructures and you will be familiar with various coding best practices.
+
+92
+00:07:42,730 --> 00:07:45,060
+Realized in the industry.
+
+93
+00:07:45,060 --> 00:07:51,810
+Finally if you need help you can visit our frequently asked questions and utilized the different links
+
+94
+00:07:51,900 --> 00:07:58,260
+to additional resources that we have included all throughout the course you can also post your questions
+
+95
+00:07:58,500 --> 00:08:02,140
+and we will try and answer as quickly as possible.
+
+96
+00:08:02,160 --> 00:08:03,720
+Good luck and enjoy the course.
