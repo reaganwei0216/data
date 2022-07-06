@@ -1,0 +1,931 @@
+patientid,sex,age,finding,RT_PCR_positive,survival,intubated,in_icu,needed_supplemental_O2,date
+2,M,65,COVID-19,Y,Y,N,N,Y,22-Jan-20
+2,M,65,COVID-19,Y,Y,N,N,Y,25-Jan-20
+2,M,65,COVID-19,Y,Y,N,N,Y,27-Jan-20
+2,M,65,COVID-19,Y,Y,N,N,Y,28-Jan-20
+4,F,52,COVID-19,Y,,N,N,N,25-Jan-20
+4,F,52,COVID-19,Y,,N,N,N,30-Jan-20
+5,,,ARDS,,,Y,Y,,2017
+6,,,COVID-19,Y,,Y,Y,,6-Jan-20
+6,,,COVID-19,Y,,Y,Y,,10-Jan-20
+3,M,74,SARS,,N,,,,2004
+3,M,74,SARS,,N,,,,2004
+3,M,74,SARS,,N,,,,2004
+7,F,29,SARS,,Y,,,,2004
+7,F,29,SARS,,Y,,,,2004
+8,F,42,SARS,,,,,,2004
+9,F,46,SARS,,,,,,2004
+9,F,46,SARS,,,,,,2004
+10,F,73,SARS,,N,,,,2004
+10,F,73,SARS,,N,,,,2004
+10,F,73,SARS,,N,,,,2004
+11,M,56,COVID-19,Y,Y,,,,2020
+12,M,42,COVID-19,Y,Y,,,,1-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,19-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,19-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,22-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,22-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,24-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,26-Jan-20
+13,M,35,COVID-19,Y,Y,N,N,Y,26-Jan-20
+14,F,,COVID-19,Y,,,,,2020
+15,M,,COVID-19,Y,,,,,2020
+15,M,,COVID-19,Y,,,,,2020
+15,M,,COVID-19,Y,,,,,2020
+16,F,59,COVID-19,Unclear,Y,,,,2020
+17,M,54,COVID-19,Y,Y,,,,25-Jan-20
+17,M,54,COVID-19,Y,Y,,,,31-Jan-20
+17,M,54,COVID-19,Y,Y,,,,6-Feb-20
+17,M,54,COVID-19,Y,Y,,,,31-Jan-20
+17,M,54,COVID-19,Y,Y,,,,6-Feb-20
+18,F,53,COVID-19,Unclear,,,,,2020
+19,F,55,COVID-19,Y,Y,N,N,Y,20-Jan-20
+19,F,55,COVID-19,Y,Y,N,N,Y,23-Jan-20
+19,F,55,COVID-19,Y,Y,N,N,Y,27-Jan-20
+19,F,55,COVID-19,Y,Y,N,N,Y,4-Feb-20
+19,F,55,COVID-19,Y,Y,N,N,Y,6-Feb-20
+19,F,55,COVID-19,Y,Y,N,N,Y,6-Feb-20
+19,F,55,COVID-19,Y,Y,N,N,Y,6-Feb-20
+19,F,55,COVID-19,Y,Y,N,N,Y,6-Feb-20
+20,M,,COVID-19,Unclear,,,,,2020
+20,M,,COVID-19,Unclear,,,,,2020
+21,F,50,COVID-19,Unclear,,,,,2020
+22,M,70,COVID-19,Y,,,,,2020
+22,M,70,COVID-19,Y,,,,,2020
+22,M,70,COVID-19,Y,,,,,2020
+23,F,70,COVID-19,Unclear,,,,,2020
+23,F,70,COVID-19,Unclear,,,,,2020
+23,F,70,COVID-19,Unclear,,,,,2020
+24,M,75,COVID-19,Unclear,,,,,2020
+25,M,50,ARDS,,,,,,26-Feb-19
+26,M,65,ARDS,,,,,,10-May-15
+27,M,35,ARDS,,,,,,5-Jun-17
+28,M,40,Pneumocystis,,,,,,4-May-10
+28,M,40,Pneumocystis,,,,,,4-May-10
+29,,65,Streptococcus,,,,,,9-May-19
+30,F,30,Streptococcus,,,,,,8-Oct-10
+31,F,25,Streptococcus,,,,,,2014
+31,F,25,Streptococcus,,,,,,2014
+31,F,25,Streptococcus,,,,,,2014
+31,F,25,Streptococcus,,,,,,2014
+32,M,43,COVID-19,Y,,,,,10-Mar-20
+32,M,43,COVID-19,Y,,,,,10-Mar-20
+32,M,43,COVID-19,Y,,,,,10-Mar-20
+33,M,62,COVID-19,Y,,,,,3-Mar-20
+33,M,62,COVID-19,Y,,,,,3-Mar-20
+33,M,62,COVID-19,Y,,,,,3-Mar-20
+34,M,45,COVID-19,Y,,,,,4-Mar-20
+34,M,45,COVID-19,Y,,,,,4-Mar-20
+34,M,45,COVID-19,Y,,,,,4-Mar-20
+35,M,43,COVID-19,Y,,,,,4-Mar-20
+35,M,43,COVID-19,Y,,,,,4-Mar-20
+35,M,43,COVID-19,Y,,,,,4-Mar-20
+36,M,67,COVID-19,Y,,,,,2020
+36,M,67,COVID-19,Y,,,,,2020
+36,M,67,COVID-19,Y,,,,,2020
+37,M,58,COVID-19,Unclear,,Y,,,3/3/2020
+37,M,58,COVID-19,Unclear,,Y,Y,,3/7/2020
+38,F,61,No Finding,Unclear,Y,N,,,2019
+38,F,61,No Finding,Unclear,Y,N,,,2019
+39,M,50,COVID-19,Unclear,,,,,2020
+39,M,50,COVID-19,Unclear,,,,,2020
+40,F,46,COVID-19,Unclear,Y,N,,,2020
+41,M,71,COVID-19,Y,,,,,2020
+42,F,69,COVID-19,Y,,,,,2020
+43,M,27,COVID-19,Y,,,,,2020
+44,F,78,COVID-19,Y,N,,,,2020
+45,F,71,COVID-19,Y,,,,,2020
+46,F,55,COVID-19,Y,,,,,2020
+47,F,58,COVID-19,Y,,,,,2020
+48,M,68,COVID-19,Y,,,,,2020
+49,M,64,COVID-19,Y,,,,,2020
+50,M,63,COVID-19,Y,,,,,2020
+51,M,47,COVID-19,Y,Y,,,,4-Mar-20
+51,M,47,COVID-19,Y,Y,,,,4-Mar-20
+51,M,47,COVID-19,Y,Y,,,,10-Mar-20
+51,M,47,COVID-19,Y,Y,,,,10-Mar-20
+52,F,72,COVID-19,Y,,,,,5-Mar-20
+53,M,53,COVID-19,Y,,,,,2020
+54,M,73,COVID-19,Y,,,,,2020
+55,M,87,COVID-19,Y,,,,,7-Mar-20
+56,F,82,COVID-19,Y,,,,,5-Mar-20
+57,F,67,COVID-19,Y,Y,,,,12-Jan-20
+57,F,67,COVID-19,Y,Y,,,,22-Jan-20
+58,M,36,COVID-19,Y,N,Y,,,12-Jan
+58,M,36,COVID-19,Y,N,Y,Y,,13-Jan
+58,M,36,COVID-19,Y,N,Y,Y,,20-Jan
+59,F,46,COVID-19,Y,Y,N,N,,5-Feb-20
+59,F,46,COVID-19,Y,Y,N,N,,18-Feb-20
+60,F,71,COVID-19,Y,,,,,2020
+61,M,38,COVID-19,Y,,,,,2020
+63,,,COVID-19,Y,,,,,2020
+63,,,COVID-19,Y,,,,,2020
+63,,,COVID-19,Y,,,,,2020
+64,,,COVID-19,Y,,,,,2020
+64,,,COVID-19,Y,,,,,2020
+64,,,COVID-19,Y,,,,,2020
+65,,,COVID-19,Y,,,,,2020
+65,,,COVID-19,Y,,,,,2020
+66,,,COVID-19,Y,,,,,2020
+66,,,COVID-19,Y,,,,,2020
+67,,,COVID-19,Y,Y,,,,16-Feb-20
+67,,,COVID-19,Y,Y,,,,21-Feb-20
+68,,,COVID-19,Y,Y,,,,17-Feb-20
+68,,,COVID-19,Y,Y,,,,21-Feb-20
+69,F,25,COVID-19,Y,Y,,,,24-Jan-20
+69,F,25,COVID-19,Y,Y,,,,28-Jan-20
+70,M,65,COVID-19,Y,,,,,2-Feb-20
+70,M,65,COVID-19,Y,,,,,2/29/2020
+70,M,65,COVID-19,Y,,,,,2/29/2020
+71,M,61,COVID-19,Unclear,Y,Y,Y,,3-Mar-20
+71,M,61,COVID-19,Unclear,Y,Y,Y,,5-Mar-20
+71,M,61,COVID-19,Unclear,Y,Y,Y,,12-Mar-20
+72,M,60,COVID-19,Y,,,,,14-Mar-20
+73,F,,COVID-19,Y,Y,,,,2020
+73,F,,COVID-19,Y,Y,,,,2020
+74,M,50,COVID-19,Unclear,,,,,2020
+75,F,75,COVID-19,Unclear,,,,,2020
+76,F,40,COVID-19,Y,Y,,,,2020
+77,F,65,COVID-19,Y,,,,,2020
+77,F,65,COVID-19,Y,,,,,2020
+78,M,,COVID-19,Y,,,,,2020
+79,M,33,COVID-19,,,,,,2020
+80,M,84,COVID-19,Unclear,Y,Y,Y,,2020
+81,M,44,COVID-19,Unclear,,N,,,2020
+82,F,52,COVID-19,Y,,,,,2020
+83,M,40,COVID-19,Y,,,,,2020
+84,M,60,COVID-19,Unclear,,,,,3-Mar-20
+85,M,30,COVID-19,Unclear,,,,,03/16/20
+86,M,60,COVID-19,Unclear,,,,,2003/6/20
+86,M,60,COVID-19,Unclear,,,,,03/16/20
+87,F,40,Streptococcus,,Y,,,,2011
+87,F,40,Streptococcus,,Y,,,,2011
+87,F,40,Streptococcus,,Y,,,,2011
+88,M,45,Streptococcus,,,,,,2016
+88,M,45,Streptococcus,,,,,,2016
+89,M,75,Streptococcus,,,,,,2018
+89,M,75,Streptococcus,,,,,,2018
+90,M,50,Chlamydophila,,Y,,,,2011
+90,M,50,Chlamydophila,,Y,,,,2011
+91,F,80,E.Coli,,Y,,,,2018
+91,F,80,E.Coli,,Y,,,,2018
+91,F,80,E.Coli,,Y,,,,2018
+91,F,80,E.Coli,,Y,,,,2018
+92,M,60,Streptococcus,,Y,,,,2016
+92,M,60,Streptococcus,,Y,,,,2016
+92,M,60,Streptococcus,,Y,,,,2016
+92,M,60,Streptococcus,,Y,,,,2016
+93,M,55,COVID-19,Y,,,,,2020
+93,M,55,COVID-19,Y,,,,,2020
+94,F,31,COVID-19,Unclear,Y,,,,01/13/20
+95,F,70,COVID-19,Y,Y,N,,N,2020
+95,F,70,COVID-19,Y,Y,N,,N,2020
+95,F,70,COVID-19,Y,Y,N,,N,2020
+96,M,60,"COVID-19, ARDS",Y,,,,,2020
+96,M,60,"COVID-19, ARDS",Y,,,,,2020
+96,M,60,"COVID-19, ARDS",Y,,,,,2020
+97,F,70,"COVID-19, ARDS",Unclear,,Y,,,2020
+97,F,70,"COVID-19, ARDS",Unclear,,Y,Y,,2020
+97,F,70,"COVID-19, ARDS",Unclear,,Y,Y,,2020
+97,F,70,"COVID-19, ARDS",Unclear,,Y,Y,,2020
+98,M,75,COVID-19,Y,,,,,2020
+98,M,75,COVID-19,Y,,,,,2020
+99,M,55,COVID-19,Y,,,,,2020
+100,F,62,Klebsiella,,,,,,2014
+101,F,40,Pneumocystis,,N,,,,2014
+101,F,40,Pneumocystis,,N,,,,2014
+101,F,40,Pneumocystis,,N,,,,2014
+102,,,Pneumocystis,,,,,,2007
+103,,,Pneumocystis,,,,,,2010
+104,,,Pneumocystis,,,,,,2015
+105,M,,Pneumocystis,,,,,,2010
+105,M,,Pneumocystis,,,,,,2010
+106,M,50,Pneumocystis,,,,,,2016
+107,M,25,Pneumocystis,,,,,,2015
+108,M,50,Pneumocystis,,,,,,2015
+109,M,70,Pneumocystis,,,,,,2015
+109,M,70,Pneumocystis,,,,,,2015
+110,M,60,Legionella,,,,,,2016
+111,M,45,Legionella,,,,,,2016
+112,,,COVID-19,Unclear,Y,,,,2020
+112,,,COVID-19,Unclear,Y,,,,2020
+113,,,COVID-19,Unclear,,,,,2020
+113,,,COVID-19,Unclear,,,,,2020
+114,,,COVID-19,Unclear,,,,,2020
+114,,,COVID-19,Unclear,,,,,2020
+115,,,COVID-19,Unclear,,,,,2020
+115,,,COVID-19,Unclear,,,,,2020
+116,M,55,COVID-19,Y,,Y,,,2020
+116,M,55,COVID-19,Y,,Y,Y,,2020
+116,M,55,COVID-19,Y,,Y,Y,,2020
+117,M,50,COVID-19,Unclear,,,,,2020
+117,M,50,COVID-19,Unclear,,,,,2020
+117,M,50,COVID-19,Unclear,,,,,2020
+117,M,50,COVID-19,Unclear,,,,,2020
+117,M,50,"COVID-19, ARDS",Unclear,,,,,2020
+118,F,71,COVID-19,Y,Y,,,,2020
+119,F,61,COVID-19,Unclear,,,,,2020
+120,M,47,COVID-19,Unclear,,,,,2020
+121,M,50,COVID-19,Unclear,,,,,2020
+122,M,41,COVID-19,Unclear,,,,,2020
+123,M,46,COVID-19,Unclear,,,,,2020
+124,M,32,COVID-19,Unclear,,,,,2020
+125,F,41,COVID-19,Unclear,,,,,2020
+126,M,38,COVID-19,Unclear,,,,,2020
+127,F,64,COVID-19,Unclear,,,,,2020
+128,F,55,COVID-19,Unclear,,,,,2020
+129,M,50,COVID-19,Unclear,,,,,2020
+130,F,50,COVID-19,Y,,,,,2020
+131,F,50,COVID-19,Y,,,,,2020
+132,M,70,COVID-19,Y,,Y,,,2020
+132,M,70,COVID-19,Y,,Y,,,2020
+132,M,70,COVID-19,Y,,Y,Y,,2020
+132,M,70,COVID-19,Y,,Y,Y,,2020
+133,M,25,COVID-19,Y,,,,,2020
+133,M,25,COVID-19,Y,,,,,2020
+134,M,40,COVID-19,Y,,,,,2020
+135,M,80,COVID-19,Y,,,,,2020
+136,F,35,COVID-19,Y,,,,,2020
+137,M,83,COVID-19,Y,,,,,2020
+138,M,77,COVID-19,Y,,,,,2020
+139,M,45,COVID-19,Y,,,,,2020
+139,M,45,COVID-19,Y,,,,,2020
+139,M,45,COVID-19,Y,,,,,2020
+140,F,60,COVID-19,Y,,,,,2020
+141,M,65,COVID-19,Y,,,,,2020
+142,M,65,COVID-19,Y,,Y,,,2020
+142,M,65,COVID-19,Y,,Y,Y,,2020
+142,M,65,COVID-19,Y,,Y,Y,,2020
+142,M,65,COVID-19,Y,,Y,Y,,2020
+143,M,65,COVID-19,Y,,,,,2020
+143,M,65,COVID-19,Y,,,,,2020
+144,F,30,COVID-19,Y,,,,,2020
+144,F,30,COVID-19,Y,,,,,2020
+145,F,35,COVID-19,Y,,N,,,2020
+146,M,85,COVID-19,Y,,,,,2020
+147,F,50,COVID-19,,,,,,2020
+148,M,41,COVID-19,,,,,,2020
+149,M,40,COVID-19,,,Y,,,2020
+150,M,28,COVID-19,Unclear,,Y,N,,2020
+150,M,28,COVID-19,Unclear,,Y,Y,,2020
+151,,,COVID-19,Y,,,,,2020
+152,,,COVID-19,Y,,,,,2020
+153,,,COVID-19,Y,,,,,2020
+154,,,COVID-19,Y,,,,,2020
+155,,,COVID-19,Y,,,,,2020
+156,,,COVID-19,Y,,,,,2020
+157,,,COVID-19,Y,,,,,2020
+158,,,COVID-19,Y,,,,,2020
+159,,,COVID-19,Y,,,,,2020
+160,M,44,"COVID-19, ARDS",Unclear,N,,,,29-Dec-19
+160,M,44,"COVID-19, ARDS",Unclear,N,,,,30-Dec-19
+160,M,44,"COVID-19, ARDS",Unclear,N,,,,1-Jan-20
+161,M,71,COVID-19,Y,,,,,27-Jan-20
+162,M,45,COVID-19,Y,,,,,
+163,M,70,COVID-19,,,,,,
+163,M,70,COVID-19,,,,,,
+163,M,70,COVID-19,,,,,,
+164,M,75,COVID-19,Y,,Y,,,
+164,M,75,COVID-19,Y,,Y,,,
+164,M,75,COVID-19,Y,,Y,Y,,
+165,F,,COVID-19,Y,,,,,
+166,M,50,COVID-19,Y,,,,,
+166,M,50,COVID-19,Y,,,,,
+167,M,75,COVID-19,Y,,,,,
+167,M,75,COVID-19,Y,,,,,
+168,F,35,COVID-19,Y,,,,,
+168,F,35,COVID-19,Y,,,,,
+169,M,60,COVID-19,Y,,Y,,,
+169,M,60,COVID-19,Y,,Y,,,
+170,M,23,SARS,,,,,,3-Mar
+171,F,23,SARS,,Y,,,,3-Mar
+171,F,23,SARS,,Y,,,,3-Mar
+171,F,23,SARS,,Y,,,,3-Mar
+172,M,76,SARS,,,,,,3-Mar
+173,F,70,No Finding,Y,,Y,,,
+173,F,70,COVID-19,Y,,Y,,,
+173,F,70,COVID-19,Y,,Y,,,
+173,F,70,COVID-19,Y,,Y,,,
+173,F,70,COVID-19,Y,,Y,Y,,
+174,F,30,COVID-19,Y,,,,,
+175,M,85,COVID-19,Y,,,,,
+176,,,COVID-19,Y,,,,,
+177,M,,COVID-19,Y,,,,,
+177,M,,COVID-19,Y,,,,,
+178,F,72,COVID-19,Y,N,Y,,,
+178,F,72,COVID-19,Y,N,Y,Y,,
+178,F,72,COVID-19,Y,N,Y,Y,,
+178,F,72,COVID-19,Y,N,Y,Y,,
+178,F,72,"COVID-19, ARDS",Y,N,Y,Y,,
+179,M,56,COVID-19,Y,,Y,,,
+179,M,56,COVID-19,Y,,Y,,,
+179,M,56,COVID-19,Y,,Y,Y,,
+180,M,61,COVID-19,Unclear,,,,,
+181,F,53,COVID-19,Y,,,,,
+182,M,34,COVID-19,Unclear,,,,,
+183,F,30,COVID-19,Y,,Y,,,
+183,F,30,COVID-19,Y,,Y,,,
+184,F,29,COVID-19,Unclear,Y,,,,
+184,F,29,COVID-19,Unclear,Y,,,,
+185,F,78,COVID-19,Unclear,N,,,,
+185,F,78,COVID-19,Unclear,N,,,,
+187,M,50,COVID-19,,N,Y,,Y,2020
+187,M,50,COVID-19,,N,Y,,Y,2020
+187,M,50,COVID-19,,N,Y,,Y,2020
+188,F,70,COVID-19,Unclear,,,,,
+189,M,61,COVID-19,Unclear,,,,,
+190,M,58,COVID-19,Unclear,,,,,
+190,M,58,COVID-19,Unclear,,,,,
+190,M,58,COVID-19,Unclear,,,,,
+191,,70,COVID-19,Unclear,,,,,
+191,,70,COVID-19,Unclear,,,,,
+192,,,COVID-19,Unclear,,Y,,,
+192,,,COVID-19,Unclear,,Y,Y,,
+193,M,83,COVID-19,Unclear,,,,,
+194,M,64,COVID-19,Unclear,,Y,,,
+195,M,83,COVID-19,Unclear,N,N,,,
+196,M,73,COVID-19,Unclear,,Y,,,
+196,M,73,COVID-19,Unclear,,Y,Y,,
+196,M,73,COVID-19,Unclear,,Y,Y,,
+196,M,73,COVID-19,Unclear,,Y,,,
+197,F,72,COVID-19,Unclear,,Y,,,
+197,F,72,COVID-19,Unclear,,Y,Y,,
+198,F,74,COVID-19,Y,,,,,
+198,F,74,COVID-19,Y,,,,,
+198,F,74,COVID-19,Y,,,,,
+199,F,65,COVID-19,Y,,,,,
+200,M,88,COVID-19,Y,,,,,
+201,M,77,COVID-19,Y,,,,,
+202,M,83,COVID-19,Y,,,,,
+203,F,45,COVID-19,Y,,,,,
+204,M,45,COVID-19,Y,,,,,
+205,M,55,COVID-19,Unclear,Y,,N,,
+205,M,55,COVID-19,Unclear,Y,,N,,
+205,M,55,COVID-19,Unclear,Y,,Y,,
+205,M,55,COVID-19,Unclear,Y,,Y,,
+205,M,55,COVID-19,Unclear,Y,,Y,,
+205,M,55,COVID-19,Unclear,Y,,Y,,
+205,M,55,COVID-19,Unclear,Y,,N,,
+206,M,48,COVID-19,Y,Y,,,,
+206,M,48,COVID-19,Y,Y,,,,
+206,M,48,COVID-19,Y,Y,,,,
+207,M,62,COVID-19,Y,,,,,
+207,M,62,COVID-19,Y,,,,,
+207,M,62,COVID-19,Y,,,,,
+207,M,62,COVID-19,Y,,,,,
+207,M,62,COVID-19,Y,,,,,
+208,F,83,COVID-19,Unclear,,,,,
+208,F,83,COVID-19,Unclear,,,,,
+208,F,83,COVID-19,Unclear,,,,,
+208,F,83,COVID-19,Unclear,,,,,
+209,F,59,COVID-19,Unclear,,,,,
+209,F,59,COVID-19,Unclear,,,,,
+209,F,59,COVID-19,Unclear,,,,,
+210,M,27,No Finding,Y,Y,N,,,
+210,M,27,COVID-19,Y,Y,N,,,
+210,M,27,COVID-19,Y,Y,N,,,
+211,F,39,No Finding,Y,Y,N,,,
+211,F,39,COVID-19,Y,Y,N,,,
+212,,43,COVID-19,Y,Y,N,,,
+212,,43,COVID-19,Y,Y,N,,,
+212,,43,COVID-19,Y,Y,N,,,
+213,,46,COVID-19,Y,Y,N,,,
+213,,46,COVID-19,Y,Y,N,,,
+213,,46,COVID-19,Y,Y,N,,,
+214,,43,No Finding,Y,Y,N,,,
+214,,43,COVID-19,Y,Y,N,,,
+214,,43,COVID-19,Y,Y,N,,,
+215,,38,COVID-19,Y,Y,N,,,
+215,,38,COVID-19,Y,Y,N,,,
+215,,38,COVID-19,Y,Y,N,,,
+215,,38,COVID-19,Y,Y,N,,,
+215,,38,COVID-19,Y,Y,N,,,
+216,M,58,COVID-19,Y,,Y,N,,
+216,M,58,COVID-19,Y,,Y,N,,
+216,M,58,COVID-19,Y,,Y,N,,
+216,M,58,COVID-19,Y,,Y,N,,
+216,M,58,COVID-19,Y,,Y,N,,
+217,M,22,No Finding,Unclear,,,,,
+217,M,22,COVID-19,Unclear,,,,,
+217,M,22,COVID-19,Unclear,,,,,
+217,M,22,COVID-19,Unclear,,,,,
+217,M,22,COVID-19,Unclear,,,,,
+217,M,22,COVID-19,Unclear,,,,,
+217,M,22,COVID-19,Unclear,,,,,
+218,F,39,No Finding,Y,,,,,
+218,F,39,No Finding,Y,,,,,
+218,F,39,COVID-19,Y,,,,,
+218,F,39,COVID-19,Y,,,,,
+219,M,,COVID-19,Unclear,Y,,Y,,2020
+219,M,,COVID-19,Unclear,Y,,N,,2020
+221,M,,Unknown,Unclear,Y,,N,,2020
+221,M,,COVID-19,Unclear,Y,,Y,,2020
+221,M,,COVID-19,Unclear,Y,,N,,2020
+222,F,,COVID-19,Unclear,Y,,Y,,2020
+222,F,,COVID-19,Unclear,Y,,N,,2020
+223,M,,COVID-19,Unclear,,,N,,2020
+224,F,,COVID-19,Unclear,,,N,,2020
+225,M,,COVID-19,Unclear,,,N,,2020
+225,M,,COVID-19,Unclear,,,N,,2020
+226,M,,COVID-19,Unclear,Y,,Y,,2020
+226,M,,COVID-19,Unclear,Y,,Y,,2020
+226,M,,COVID-19,Unclear,Y,,Y,,2020
+227,F,,COVID-19,Unclear,,,N,,2020
+228,F,,COVID-19,Unclear,,,N,,2020
+228,F,,COVID-19,Unclear,,,N,,2020
+229,F,,COVID-19,Unclear,,,N,,2020
+230,M,,COVID-19,Unclear,Y,,Y,,2020
+230,M,,COVID-19,Unclear,Y,,N,,2020
+232,M,,COVID-19,Unclear,,,N,,2020
+233,M,,COVID-19,Unclear,Y,,N,,2020
+234,F,,COVID-19,Unclear,,,N,,2020
+235,F,,COVID-19,Unclear,Y,,N,,2020
+235,F,,COVID-19,Unclear,Y,,Y,,2020
+235,F,,COVID-19,Unclear,Y,,N,,2020
+236,M,,COVID-19,Unclear,Y,,Y,,2020
+237,F,,COVID-19,Unclear,,,N,,2020
+239,M,,COVID-19,Unclear,,,N,,2020
+240,M,,COVID-19,Unclear,,,N,,2020
+241,M,,COVID-19,Unclear,Y,,Y,,2020
+242,M,,COVID-19,Unclear,,,N,,2020
+243,M,,COVID-19,Unclear,,,N,,2020
+243,M,,COVID-19,Unclear,,,N,,2020
+244,M,,COVID-19,Unclear,N,,Y,,2020
+244,M,,COVID-19,Unclear,N,,Y,,2020
+245,M,,COVID-19,Unclear,Y,,Y,,2020
+245,M,,COVID-19,Unclear,Y,,N,,2020
+245,M,,COVID-19,Unclear,Y,,Y,,2020
+245,M,,COVID-19,Unclear,Y,,Y,,2020
+245,M,,COVID-19,Unclear,Y,,Y,,2020
+246,M,,COVID-19,Unclear,N,,N,,2020
+246,M,,COVID-19,Unclear,N,,N,,2020
+247,M,,COVID-19,Unclear,Y,,N,,2020
+248,M,,COVID-19,Unclear,,,N,,2020
+249,M,,COVID-19,Unclear,Y,,N,,2020
+249,M,,COVID-19,Unclear,Y,,Y,,2020
+249,M,,COVID-19,Unclear,Y,,N,,2020
+250,F,,COVID-19,Unclear,Y,,N,,2020
+250,F,,COVID-19,Unclear,Y,,Y,,2020
+250,F,,COVID-19,Unclear,Y,,N,,2020
+250,F,,COVID-19,Unclear,Y,,N,,2020
+250,F,,COVID-19,Unclear,Y,,N,,2020
+250,F,,COVID-19,Unclear,Y,,N,,2020
+250,F,,COVID-19,Unclear,Y,,N,,2020
+251,F,,No Finding,Unclear,,,N,,2020
+251,F,,COVID-19,Unclear,,,N,,2020
+252,F,,COVID-19,Unclear,,,N,,2020
+252,F,,COVID-19,Unclear,,,N,,2020
+252,F,,COVID-19,Unclear,,,N,,2020
+253,M,,No Finding,Unclear,,,N,,2020
+253,M,,COVID-19,Unclear,,,N,,2020
+253,M,,COVID-19,Unclear,,,N,,2020
+254,F,,COVID-19,Unclear,Y,,Y,,2020
+254,F,,COVID-19,Unclear,Y,,Y,,2020
+255,F,,COVID-19,Unclear,,,N,,2020
+256,M,,COVID-19,Unclear,,,N,,2020
+257,M,,COVID-19,Unclear,,,N,,2020
+258,M,,COVID-19,Unclear,,,N,,2020
+259,F,,COVID-19,Unclear,,,N,,2020
+261,M,,COVID-19,Unclear,,,N,,2020
+263,M,,COVID-19,Unclear,Y,,N,,2020
+263,M,,COVID-19,Unclear,Y,,Y,,2020
+263,M,,COVID-19,Unclear,Y,,N,,2020
+264,M,,COVID-19,Unclear,,,N,,2020
+264,M,,COVID-19,Unclear,,,N,,2020
+264,M,,COVID-19,Unclear,,,N,,2020
+266,F,,COVID-19,Unclear,,,N,,2020
+267,M,,COVID-19,Unclear,,,N,,2020
+268,F,,COVID-19,Unclear,,,N,,2020
+269,M,,COVID-19,Unclear,Y,,N,,2020
+270,M,,COVID-19,Unclear,,,N,,2020
+271,M,52,Klebsiella,,,,,,2003/9/20
+271,M,52,Klebsiella,,,,,,2003/9/20
+272,F,55,Pneumonia,,Y,N,N,N,11/27/19
+272,F,55,Pneumonia,,Y,N,N,N,11/27/19
+273,M,34,Pneumocystis,,Y,N,N,N,2017
+273,M,34,Pneumocystis,,Y,N,N,N,2017
+276,M,60,Lipoid,,,,,,2016
+276,M,60,Lipoid,,,,,,2016
+277,M,33,Varicella,,Y,,N,Y,2016
+277,M,33,Varicella,,Y,,N,Y,2016
+277,M,33,Varicella,,Y,,Y,Y,2016
+277,M,33,Varicella,,Y,,N,Y,2016
+277,M,33,Varicella,,Y,,N,Y,2016
+278,M,51,Bacterial,,Y,N,N,N,2016
+278,M,51,Bacterial,,Y,N,N,N,2016
+278,M,51,Bacterial,,Y,N,N,N,2016
+278,M,51,Bacterial,,Y,N,N,N,2016
+279,F,61,Pneumonia,,,Y,Y,,2015
+279,F,61,Pneumonia,,,Y,Y,,2015
+279,F,61,Pneumonia,,,Y,Y,,2015
+279,F,61,Pneumonia,,,Y,Y,,2015
+281,F,71,Pneumonia,,Y,N,,,2015
+281,F,71,Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+282,M,46,Mycoplasma Bacterial Pneumonia,,Y,N,,,2015
+283,M,76,Lipoid,,Y,N,N,,2014
+283,M,76,Lipoid,,Y,N,N,,2014
+283,M,76,Lipoid,,Y,N,N,,2014
+284,M,52,Klebsiella,,Y,N,N,,2015
+284,M,52,Klebsiella,,Y,N,N,,2015
+284,M,52,Klebsiella,,Y,N,N,,2015
+284,M,52,Klebsiella,,Y,N,N,,2015
+284,M,52,Klebsiella,,Y,N,N,,2015
+286,M,52,Influenza,,N,Y,Y,,2013
+286,M,52,Influenza,,N,Y,Y,,2013
+288,M,61,COVID-19,Y,N,,N,,27-Dec-19
+288,M,61,COVID-19,Y,N,,Y,,29-Dec-19
+289,,,COVID-19,Unclear,,,,,
+289,,,COVID-19,Unclear,,,,,
+289,,,COVID-19,Unclear,,,,,
+290,F,63,COVID-19,Y,Y,N,Y,,2020
+290,F,63,COVID-19,Y,Y,N,Y,,2020
+291,F,61,COVID-19,Y,Y,N,,,2020
+291,F,61,COVID-19,Y,Y,N,,,2020
+291,F,61,COVID-19,Y,Y,N,,,2020
+292,F,54,COVID-19,Y,Y,Y,N,,2020
+293,,55,COVID-19,Y,,,,,2020
+293,,55,COVID-19,Y,,,,,2020
+294,M,72,COVID-19,Y,,,,,2020
+294,M,72,COVID-19,Y,,,,,2020
+294,M,72,COVID-19,Y,,,,,2020
+295,,,COVID-19,Y,,,,,2020
+296,,,COVID-19,Y,,,,,2020
+297,M,73,COVID-19,Y,,,,,2020
+298,F,74,COVID-19,Y,,,,,2020
+299,M,73,COVID-19,Unclear,,Y,,,2020
+299,M,73,COVID-19,Unclear,,Y,,,2020
+299,M,73,COVID-19,Unclear,,Y,Y,,2020
+299,M,73,COVID-19,Unclear,,Y,Y,,2020
+300,M,27,COVID-19,Unclear,,Y,,,2020
+300,M,27,COVID-19,Unclear,,Y,,,2020
+300,M,27,COVID-19,Unclear,,Y,Y,,2020
+300,M,27,COVID-19,Unclear,,Y,Y,,2020
+301,M,62,COVID-19,Y,Y,N,N,,2020
+302,F,35,COVID-19,Y,,,,,2020
+303,M,74,COVID-19,Y,,Y,,,2020
+303,M,74,COVID-19,Y,,Y,,,2020
+303,M,74,COVID-19,Y,,Y,,,2020
+304,F,83,COVID-19,Y,N,Y,,,2020
+305,M,66,COVID-19,Y,,Y,N,,2020
+305,M,66,COVID-19,Y,,Y,Y,,2020
+306,M,40,COVID-19,Y,,Y,Y,,2020
+307,M,66,COVID-19,Y,,,,,2020
+308,M,37,COVID-19,Y,,,,,2020
+309,M,38,COVID-19,Y,,,,,29-Jan-20
+310,M,71,COVID-19,Unclear,,,,Y,6-Apr-20
+310,M,71,COVID-19,Unclear,,,,Y,2020
+311a,M,68,COVID-19,Y,,Y,Y,,2020
+311b,F,39,COVID-19,Y,,,,,2020
+312,F,59,COVID-19,Y,Y,,,Y,2020
+313a,M,71,COVID-19,Y,,,,,2020
+313a,M,71,COVID-19,Y,,,,,2020
+313b,M,75,No Finding,Unclear,,,,,2020
+313b,M,75,COVID-19,Unclear,,,,,2020
+314,M,21,COVID-19,Y,,N,,Y,2020
+314,M,21,COVID-19,Y,,N,,Y,2020
+314,M,21,COVID-19,Y,,N,,Y,2020
+315,F,78,COVID-19,Y,Y,N,N,N,18-Feb-20
+315,F,78,COVID-19,Y,Y,N,N,N,25-Feb-20
+315,F,78,No Finding,Y,Y,N,N,N,4-Mar-20
+316,M,54,COVID-19,Y,Y,Y,,,2020
+316,M,54,COVID-19,Y,Y,Y,,,2020
+316,M,54,No Finding,Y,Y,Y,,,2020
+317,F,64,COVID-19,Y,,Y,N,,1-Feb-20
+318,M,45,No Finding,Y,,Y,,Y,2020
+318,M,45,No Finding,Y,,Y,Y,Y,2020
+318,M,45,COVID-19,Y,,Y,Y,Y,2020
+318,M,45,COVID-19,Y,,Y,Y,Y,2020
+318,M,45,COVID-19,Y,,Y,,Y,2020
+319a,F,74,COVID-19,Y,Y,,,,2020
+319b,F,73,COVID-19,Y,Y,,,,2020
+320,F,67,COVID-19,Y,N,Y,N,,5-Mar-20
+320,F,67,COVID-19,Y,N,Y,,,13-Mar-20
+321,,75,COVID-19,Y,,,,,2020
+321,,75,COVID-19,Y,,,,,2020
+322,,75,COVID-19,Y,,,,,2020
+323,M,72,COVID-19,Y,,Y,N,Y,5-Mar-20
+324a,F,69,COVID-19,Y,,,,,2020
+324b,F,93,COVID-19,Y,,,,,2020
+324b,F,93,COVID-19,Y,,,,,2020
+324b,F,93,COVID-19,Y,,,,,2020
+325,F,78,No Finding,Y,Y,N,N,N,12-Mar-20
+325,F,78,COVID-19,Y,Y,N,N,N,2020
+326a,M,81,COVID-19,Y,N,,,,2020
+326a,M,81,COVID-19,Y,N,,,,2020
+326b,M,94,COVID-19,Y,N,N,,Y,2020
+329,M,34,COVID-19,Y,Y,N,N,N,2020
+330,M,51,COVID-19,Unclear,,,N,,2020
+331a,F,39,COVID-19,Y,Y,N,N,N,2020
+331b,M,44,COVID-19,Y,N,Y,N,Y,2020
+331b,M,44,COVID-19,Y,N,Y,Y,Y,2020
+332,F,56,COVID-19,Y,Y,N,N,N,2020
+332,F,56,COVID-19,Y,Y,N,N,N,2020
+332,F,56,COVID-19,Y,Y,N,N,N,2020
+333,F,50,COVID-19,Y,Y,N,N,N,2020
+334,M,52,COVID-19,Unclear,,,,,2020
+335,M,74,COVID-19,Y,,Y,N,,2020
+336,M,49,COVID-19,Y,Y,N,Y,Y,2020
+337,M,80,COVID-19,Y,,Y,Y,Y,2020
+337,M,80,COVID-19,Y,,Y,Y,Y,2020
+338,F,61,COVID-19,Unclear,,Y,Y,Y,2020
+338,F,61,COVID-19,Unclear,,Y,Y,Y,2020
+339,F,64,Pneumonia,,Y,N,N,,2013
+339,F,64,Pneumonia,,Y,N,N,,2013
+339,F,64,Pneumonia,,Y,N,N,,2013
+340,M,80,Legionella,,N,,,,2013
+340,M,80,Legionella,,N,,,,2013
+341,F,49,COVID-19,Y,,,,,2020
+342,F,47,COVID-19,Y,,Y,,,2020
+342,F,47,COVID-19,Y,,Y,,,2020
+343,F,47,COVID-19,Y,,Y,Y,,2020
+344,M,78,COVID-19,Y,,,Y,Y,2020
+344,M,78,COVID-19,Y,,,Y,Y,2020
+345,F,78,COVID-19,Y,Y,N,N,N,2020
+345,F,78,COVID-19,Y,Y,N,N,N,2020
+346,F,64,COVID-19,Unclear,,,,Y,2020
+347,F,39,COVID-19,Y,Y,N,N,N,2020
+347,F,39,COVID-19,Y,Y,N,N,N,2020
+347,F,39,COVID-19,Y,Y,N,N,N,2020
+347,F,39,COVID-19,Y,Y,N,N,N,2020
+348,M,75,COVID-19,Y,Y,,,,2020
+349,M,57,COVID-19,Y,Y,N,N,Y,2020
+350a,M,30,COVID-19,Y,Y,,,,2020
+350a,M,30,COVID-19,Y,Y,,,,2020
+350b,M,30,COVID-19,Unclear,,,,,2020
+350c,M,30,COVID-19,Y,Y,,,,2020
+351,M,65,No Finding,Y,,,,,2020
+351,M,65,COVID-19,Y,,,,,2020
+352,F,80,COVID-19,Y,,,,,2020
+353,M,40,COVID-19,Y,,,,,2020
+354,M,25,COVID-19,Unclear,,,,,2020
+355,M,40,COVID-19,Y,,,,,2020
+356,M,55,COVID-19,Unclear,,,,,2020
+357,M,80,COVID-19,Y,N,,Y,,2020
+357,M,80,COVID-19,Y,N,,Y,,2020
+357,M,80,COVID-19,Y,N,,Y,,2020
+357,M,80,COVID-19,Y,N,,Y,,2020
+358,F,25,COVID-19,Y,Y,,,,2020
+358,F,25,COVID-19,Y,Y,,,,2020
+359,M,50,COVID-19,Unclear,,Y,N,,2020
+359,M,50,COVID-19,Unclear,,Y,Y,,2020
+359,M,50,COVID-19,Unclear,,Y,Y,,2020
+359,M,50,COVID-19,Unclear,,Y,Y,,2020
+359,M,50,COVID-19,Unclear,,Y,Y,,2020
+360a,F,80,COVID-19,Y,,,,,2020
+360b,F,45,Cryptogenic Organizing Pneumonia,,,,,,
+360b,F,45,Cryptogenic Organizing Pneumonia,,,,,,
+360b,F,45,Cryptogenic Organizing Pneumonia,,,,,,
+360b,F,45,Cryptogenic Organizing Pneumonia,,,,,,
+360b,F,45,Cryptogenic Organizing Pneumonia,,,,,,
+361a,M,65,Lobar Pneumonia,,,,,,
+361b,M,60,Multilobar Pneumonia,,,,,,
+361b,M,60,Multilobar Pneumonia,,,,,,
+362,F,40,Multilobar Pneumonia,,Y,,,,
+362,F,40,Multilobar Pneumonia,,Y,,,,
+363,F,55,Legionella,,,,,,
+364,M,50,Lipoid,,,,,,
+364,M,50,Organizing Pneumonia,,,,,,
+364,M,50,Organizing Pneumonia,,,,,,
+365,M,35,Pneumocystis,,,,,,
+365,M,35,Pneumocystis,,,,,,
+366,F,75,Lipoid,,,,,,
+366,F,75,Lipoid,,,,,,
+367,F,35,Varicella,,,,,,
+368,M,60,Cryptogenic Organizing Pneumonia,,,,,,
+368,M,60,Cryptogenic Organizing Pneumonia,,,,,,
+369,M,30,Pneumocystis,,,Y,,,10-Sep-09
+369,M,30,Pneumocystis,,,Y,,,16-Sep-09
+369,M,30,Pneumocystis,,,Y,Y,,21-Sep-09
+370,F,40,Pneumonia,,,,,,
+371,F,45,Eosinophilic Pneumonia,,,,,,
+372,M,40,Eosinophilic Pneumonia,,,,,,
+372,M,40,Eosinophilic Pneumonia,,,,,,
+373,F,28,Mycoplasma Bacterial Pneumonia,,,,,,
+373,F,28,Mycoplasma Bacterial Pneumonia,,,,,,
+374,M,70,Unusual Interstitial Pneumonia,,,,,,
+375,F,60,Influenza,,Y,,,,20-Mar
+375,F,60,Influenza,,Y,,,,20-Mar
+376,M,55,Lipoid,,,,,,
+377,M,50,Cryptogenic Organizing Pneumonia,,,,,,
+377,M,50,Chlamydophila,,,,,,
+379,F,50,Lymphocytic Interstitial Pneumonia,,,,,,
+379,F,50,Lymphocytic Interstitial Pneumonia,,,,,,
+380,M,30,Desquamative Interstitial Pneumonia,,,,,,
+380,M,30,Desquamative Interstitial Pneumonia,,,,,,
+380,F,30,Cryptogenic Organizing Pneumonia,,,,,,
+381,M,35,Pneumocystis,,,,,,
+382,F,30,Lobar Pneumonia,,,,,,
+382,F,30,Lobar Pneumonia,,,,,,
+382,F,30,Lobar Pneumonia,,,,,,
+382,F,30,Lobar Pneumonia,,,,,,
+383,F,35,Lobar Pneumonia,,,,,,
+383,F,35,Lobar Pneumonia,,,,,,
+383,F,35,Lobar Pneumonia,,,,,,
+383,F,35,Lobar Pneumonia,,,,,,
+384,M,,todo,,Y,,N,,2020
+385,M,,todo,,Y,,N,,2020
+386,M,,todo,,Y,,N,,2020
+386,M,,todo,,Y,,N,,2020
+386,M,,todo,,Y,,N,,2020
+387,M,,todo,,Y,,Y,,2020
+387,M,,todo,,Y,,Y,,2020
+387,M,,todo,,Y,,Y,,2020
+387,M,,todo,,Y,,Y,,2020
+388,M,,todo,,Y,,N,,2020
+388,M,,todo,,Y,,N,,2020
+388,M,,todo,,Y,,N,,2020
+389,F,,todo,,Y,,Y,,2020
+389,F,,todo,,Y,,Y,,2020
+389,F,,todo,,Y,,Y,,2020
+389,F,,todo,,Y,,Y,,2020
+389,F,,todo,,Y,,Y,,2020
+389,F,,todo,,Y,,N,,2020
+390,F,,todo,,,,N,,2020
+391,M,,todo,,,,N,,2020
+391,M,,todo,,,,N,,2020
+392,M,,todo,,Y,,Y,,2020
+393,F,21,Spinal Tuberculosis,,,,,,
+394,M,47,No Finding,,Y,,,,
+394,M,47,COVID-19,Y,Y,,,,
+395,M,26,Swine-Origin Influenza A (H1N1) Viral Pneumonia,,,,,,
+395,M,26,Swine-Origin Influenza A (H1N1) Viral Pneumonia,,,,,,
+396,M,50,Legionella,,Y,,,,
+396,M,50,Legionella,,Y,,Y,,
+396,M,50,Legionella,,Y,,Y,,
+397,M,55,No Finding,,,,,,
+397,M,55,Tuberculosis,,,,,,
+397,M,55,Tuberculosis,,,,,,
+397,M,55,Tuberculosis,,,,,,
+398,F,21,Invasive Aspergillosis,,N,Y,Y,,
+399,F,62,Herpes pneumonia,,,Y,,,
+399,F,62,Herpes pneumonia,,,Y,Y,,
+399,F,62,"Herpes pneumonia, ARDS",,,Y,Y,,
+402,M,28,No Finding,,,,,,
+402,M,28,ARDS,,,,,,
+403,F,67,Accelerated Phase Usual Interstitial Pneumonia,,N,,,,
+403,F,67,Accelerated Phase Usual Interstitial Pneumonia,,N,,,,
+404,M,34,Pneumocystis,,,,,,
+404,M,34,Pneumocystis,,,,,,
+405,M,74,Round pneumonia,,,,,,
+406,M,30,Pneumocystis,,,,,,
+407,M,69,Lymphocytic interstitial pneumonia,,,,,,
+408,F,53,Cryptogenic Organizing Pneumonia,,,,,,
+409,F,35,Streptococcus,,Y,,,,
+410,M,30,Lipoid,,,,,,
+410,M,30,Lipoid,,,,,,
+410,M,30,Lipoid,,,,,,
+410,M,30,Lipoid,,,,,,
+411,M,27,Allergic bronchopulmonary aspergillosis ,,,,,,
+412,F,60,Cryptogenic organising pneumonia,,,,,,
+412,F,60,Cryptogenic organising pneumonia,,,,,,
+413,F,54,Chronic eosinophilic pneumonia,,,,,,
+413,F,54,Chronic eosinophilic pneumonia,,,,,,
+413,F,54,Chronic eosinophilic pneumonia,,,,,,
+415,M,74,Aspiration pneumonia,,,,,,
+416,M,30,Pneumocystis,,,,,,
+416,M,30,Pneumocystis,,,,,,
+416,M,30,Pneumocystis,,,,,,
+416,M,30,Pneumocystis,,,,,,
+417,M,45,Tuberculosis,,,,,,
+418,M,20,Tuberculosis,,,,,,
+418,M,20,Tuberculosis,,,,,,
+419,M,28,Tuberculosis,,,,,,
+419,M,28,Tuberculosis,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+420,M,45,Nocardia,,,,,,
+421,M,78,Tuberculosis,,,,,,
+422,,,COVID-19,Unclear,,,,,
+423a,,,MERS-CoV,,,,,,
+423b,,,MERS-CoV,,,,,,
+423b,,,MERS-CoV,,,,,,
+423b,,,MERS-CoV,,,,,,
+423b,,,MERS-CoV,,,,,,
+425c,,,MERS-CoV,,,,,,
+425c,,,MERS-CoV,,,,,,
+425c,,,MERS-CoV,,,,,,
+425d,,,MERS-CoV,,,,,,
+425d,,,MERS-CoV,,,,,,
+425d,,,todo,,,,,,
+426a,F,66,COVID-19,Y,,,,,27-Feb-20
+426a,F,66,COVID-19,Y,,,,,
+426b,M,70,COVID-19,Y,,Y,,,7-Mar-20
+426b,M,70,COVID-19,Y,,Y,,,
+427a,M,77,COVID-19,Y,N,Y,,,
+427b,M,42,COVID-19,Y,N,Y,,,
+429,F,,todo,,,,N,,2020
+430,F,,todo,,Y,,Y,,2020
+430,F,,todo,,Y,,Y,,2020
+430,F,,todo,,Y,,Y,,2020
+430,F,,todo,,Y,,Y,,2020
+430,F,,todo,,Y,,Y,,2020
+431,F,,todo,,Y,,Y,,2020
+431,F,,todo,,Y,,Y,,2020
+431,F,,todo,,Y,,Y,,2020
+431,F,,todo,,Y,,Y,,2020
+431,F,,todo,,Y,,Y,,2020
+431,F,,todo,,Y,,N,,2020
+431,F,,todo,,Y,,N,,2020
+431,F,,todo,,Y,,N,,2020
+431,F,,todo,,Y,,N,,2020
+432,M,,todo,,Y,,Y,,2020
+432,M,,todo,,Y,,Y,,2020
+433,M,,todo,,,,N,,2020
+433,M,,todo,,,,N,,2020
+433,M,,todo,,,,N,,2020
+434,M,,todo,,Y,,Y,,2020
+434,M,,todo,,Y,,Y,,2020
+435,M,,todo,,Y,,Y,,2020
+435,M,,todo,,Y,,Y,,2020
+435,M,,todo,,Y,,Y,,2020
+435,M,,todo,,Y,,N,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,Y,,2020
+436,M,,todo,,N,,N,,2020
+437,M,,todo,,,,N,,2020
+437,M,,todo,,,,N,,2020
+438,M,,todo,,,,N,,2020
+439,M,,todo,,,,N,,2020
+440,M,,todo,,,,N,,2020
+441,M,,todo,,,,N,,2020
+442,M,,todo,,,,N,,2020
+443,F,,todo,,,,N,,2020
+444,M,,todo,,Y,,Y,,2020
+444,M,,todo,,Y,,Y,,2020
+444,M,,todo,,Y,,Y,,2020
+444,M,,todo,,Y,,Y,,2020
+445,F,50,COVID-19,Unclear,,,,,2020
+446,M,65,COVID-19,Y,,Y,,Y,2020
+446,M,65,COVID-19,Y,,Y,Y,Y,2020
+446,M,65,COVID-19,Y,,Y,Y,Y,2020
+446,M,65,COVID-19,Y,,Y,Y,Y,2020
+447,M,70,COVID-19,Unclear,,,,,2020
+447,M,70,COVID-19,Unclear,,,,Y,2020
+447,M,70,COVID-19,Unclear,,,,Y,2020
+448,M,,COVID-19,Y,,,,,2020
+449,M,,Tuberculosis,,,,,,
+450,F,62,Klebsiella,,,,,,
+451,M,18,Eosinophilic pneumonia,,Y,,,,
+451,M,18,Eosinophilic pneumonia,,Y,,,,
+452,F,40,Tuberculosis,,,,,,
+452,F,40,Tuberculosis,,,,,,
+453,M,70,Tuberculosis,,,,,,
+454,F,78,Cryptogenic organizing pneumonia,,,,,,
+454,F,78,Cryptogenic organizing pneumonia,,,,,,
+455,M,30,Mycoplasma Bacterial Pneumonia,,,,,,
+456,M,58,Tuberculosis,,,,,,
+456,M,58,Tuberculosis,,,,,,
+457,F,25,Tuberculosis,,,,,,
+457,F,25,Tuberculosis,,,,,,
+459,,70,COVID-19,Y,,,,,2020
+460,M,90,Pneumonia,,,,,,
+460,M,90,Pneumonia,,,,,,
+461,M,30,MRSA,,Y,N,N,,
+462,F,40,Streptococcus,,Y,,,,
+462,F,40,Streptococcus,,Y,,,,
+462,F,40,Streptococcus,,Y,,,,
+462,F,40,Streptococcus,,Y,,,,
+463,M,60,Klebsiella,,,,,,
+464,F,70,Influenza,,Y,Y,,,
+465,M,45,COVID-19,Y,,,,Y,2020
+466,F,70,Pneumonia,,,,,,
+466,F,70,Pneumonia,,,,,,
+467,M,60,Pneumonia,,,,,,
+467,M,60,Pneumonia,,,,,,
+468,F,50,Pneumonia,,,,,,
+468,F,50,Pneumonia,,,,,,
+469,F,25,Pneumonia,,,,,,
+469,F,25,Pneumonia,,,,,,
+470,M,55,Pneumonia,,,,,,
+470,M,55,Pneumonia,,,,,,
